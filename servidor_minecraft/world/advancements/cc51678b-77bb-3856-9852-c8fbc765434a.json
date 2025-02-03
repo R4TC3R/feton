@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-02-02 21:29:15 +0000"
@@ -95,6 +101,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/copper_door": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-02-02 21:32:12 +0000"
@@ -110,6 +128,12 @@
   "additionalguns:recipes/additionalguns/usp": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -245,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-03 05:33:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
@@ -278,6 +308,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-02 21:37:23 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/copper_bars_from_copper_ingot_stonecutting": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -455,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-03 05:33:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-03 03:59:18 +0000"
@@ -500,6 +542,12 @@
   "additionalguns:recipes/additionalguns/m1911": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/copper_hull": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -1079,6 +1127,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/python": {
     "criteria": {
       "has_planks": "2025-02-02 21:28:03 +0000"
@@ -1309,6 +1363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-03 05:33:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-02-03 05:16:34 +0000"
@@ -1360,6 +1420,12 @@
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -1459,6 +1525,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-03 04:22:01 +0000"
@@ -1486,6 +1558,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-02-02 21:27:44 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -1618,6 +1696,12 @@
   "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-02-02 21:27:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -1856,6 +1940,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-02-03 04:22:01 +0000"
@@ -2027,6 +2117,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-02-03 05:33:10 +0000"
     },
     "done": true
   },
@@ -2411,6 +2507,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-03 04:22:01 +0000"
@@ -2717,6 +2819,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/shell": {
     "criteria": {
       "has_gunpowder": "2025-02-02 21:51:03 +0000"
@@ -2846,6 +2954,12 @@
   "create:recipes/create.palettes/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-03 04:00:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -3203,6 +3317,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-03 04:02:16 +0000"
@@ -3369,6 +3489,12 @@
   "ae2:recipes/ae2.main/network/cables/glass_light_gray": {
     "criteria": {
       "has_dyes/black": "2025-02-03 05:16:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -3746,6 +3872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/misc/seeds_certus": {
     "criteria": {
       "has_dusts/certus_quartz": "2025-02-03 04:22:07 +0000"
@@ -3944,6 +4076,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/copper_bars": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-02-03 04:45:17 +0000"
@@ -3995,6 +4133,18 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -4262,6 +4412,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/copper_trapdoor": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-02-03 00:24:10 +0000"
@@ -4368,6 +4524,7 @@
     "criteria": {
       "minecraft:windswept_hills": "2025-02-02 23:27:55 +0000",
       "minecraft:bamboo_jungle": "2025-02-02 23:52:03 +0000",
+      "minecraft:wooded_badlands": "2025-02-03 05:33:07 +0000",
       "minecraft:beach": "2025-02-03 04:29:49 +0000",
       "minecraft:sparse_jungle": "2025-02-02 23:46:42 +0000",
       "minecraft:river": "2025-02-02 21:51:49 +0000",
@@ -4524,6 +4681,12 @@
   "vampirism:recipes/vampirism/vampire/chandelier": {
     "criteria": {
       "has_string": "2025-02-03 04:10:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -4911,6 +5074,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-02-03 04:02:27 +0000"
@@ -5094,6 +5263,12 @@
   "cgm:recipes/cgm/long_scope": {
     "criteria": {
       "has_black_dye": "2025-02-03 05:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -5382,6 +5557,12 @@
   "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-03 03:59:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -6039,6 +6220,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-02-02 21:32:12 +0000"
@@ -6060,6 +6247,12 @@
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-02-02 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },

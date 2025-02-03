@@ -1064,3 +1064,39 @@ java.lang.Throwable: null
 [03Feb2025 05:28:09.525] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Joannes'/58718, l='ServerLevel[world]', x=-2591.70, y=70.31, z=-378.06] died: Joannes was slain by COsito
 [03Feb2025 05:28:15.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Frieda
 [03Feb2025 05:28:15.859] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:28:48.019] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59816, l='ServerLevel[world]', x=-2610.73, y=64.94, z=-348.52] died, message: 'Villager was slain by R4TC3R'
+[03Feb2025 05:28:54.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Summoned new Villager]
+[03Feb2025 05:29:14.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Romain'/58708, l='ServerLevel[world]', x=-2603.12, y=65.31, z=-354.35] died, message: 'Romain was slain by COsito'
+[03Feb2025 05:29:14.628] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Romain'/58708, l='ServerLevel[world]', x=-2603.12, y=65.31, z=-354.35] died: Romain was slain by COsito
+[03Feb2025 05:29:17.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Iron Golem
+[03Feb2025 05:29:17.348] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:29:49.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was shot by Frieda
+[03Feb2025 05:29:49.913] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:30:12.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Frieda'/58721, l='ServerLevel[world]', x=-2599.60, y=64.00, z=-352.72] died, message: 'Frieda was slain by COsito'
+[03Feb2025 05:30:12.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Frieda'/58721, l='ServerLevel[world]', x=-2599.60, y=64.00, z=-352.72] died: Frieda was slain by COsito
+[03Feb2025 05:30:35.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [Enchanter]
+[03Feb2025 05:30:46.406] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Chantal'/58730, l='ServerLevel[world]', x=-2621.82, y=71.00, z=-346.29] died, message: 'Chantal was slain by COsito'
+[03Feb2025 05:30:46.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Chantal'/58730, l='ServerLevel[world]', x=-2621.82, y=71.00, z=-346.29] died: Chantal was slain by COsito
+[03Feb2025 05:31:26.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Richard'/58717, l='ServerLevel[world]', x=-2602.72, y=63.94, z=-352.72] died, message: 'Richard was slain by COsito'
+[03Feb2025 05:31:26.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Richard'/58717, l='ServerLevel[world]', x=-2602.72, y=63.94, z=-352.72] died: Richard was slain by COsito
+[03Feb2025 05:31:41.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported COsito to Saekro]
+[03Feb2025 05:31:44.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Saekro
+[03Feb2025 05:31:44.652] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:32:03.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [Funeral Theft]
+[03Feb2025 05:32:27.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported COsito to -2599.500000, 70.000000, -599.500000]
+[03Feb2025 05:32:50.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported COsito to -2599.500000, 70.000000, -59.500000]
+[03Feb2025 05:33:03.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2598, y=48, z=-68} BlockPos{x=-2598, y=47, z=-69}
+[03Feb2025 05:33:06.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported COsito to -2015.500000, 70.000000, 350.500000]
+[03Feb2025 05:33:12.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported COsito to -2015.500000, 70.000000, -349.500000]
+[03Feb2025 05:33:31.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported COsito to -2599.500000, 70.000000, -349.500000]
+[03Feb2025 05:33:31.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from COsito: hit position BlockPos{x=-2016, y=74, z=-350} too far away from player BlockPos{x=-2600, y=70, z=-350}.
+[03Feb2025 05:33:31.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from COsito: hit position BlockPos{x=-2016, y=75, z=-350} too far away from player BlockPos{x=-2600, y=70, z=-350}.
+[03Feb2025 05:33:31.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from COsito: hit position BlockPos{x=-2016, y=75, z=-350} too far away from player BlockPos{x=-2600, y=70, z=-350}.
+[03Feb2025 05:33:31.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from COsito: hit position BlockPos{x=-2016, y=76, z=-350} too far away from player BlockPos{x=-2600, y=70, z=-350}.
+[03Feb2025 05:33:31.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from COsito: hit position BlockPos{x=-2016, y=77, z=-350} too far away from player BlockPos{x=-2600, y=70, z=-350}.
+[03Feb2025 05:34:07.572] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stefan'/66201, l='ServerLevel[world]', x=-2602.36, y=66.94, z=-386.24] died, message: 'Stefan was slain by COsito'
+[03Feb2025 05:34:07.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Stefan'/66201, l='ServerLevel[world]', x=-2602.36, y=66.94, z=-386.24] died: Stefan was slain by COsito
+[03Feb2025 05:35:07.768] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vicky'/66167, l='ServerLevel[world]', x=-2603.50, y=64.71, z=-346.05] died, message: 'Vicky was slain by COsito'
+[03Feb2025 05:35:07.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vicky'/66167, l='ServerLevel[world]', x=-2603.50, y=64.71, z=-346.05] died: Vicky was slain by COsito
+[03Feb2025 05:36:15.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COsito lost connection: Disconnected
+[03Feb2025 05:36:15.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito left the game
