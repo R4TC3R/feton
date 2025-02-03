@@ -1785,6 +1785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-02-03 07:22:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:22 +0000"
@@ -3273,6 +3279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-03 07:22:30 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ace_of_spades": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:22 +0000"
@@ -3922,6 +3934,7 @@
     "criteria": {
       "minecraft:windswept_hills": "2025-02-02 23:06:02 +0000",
       "minecraft:river": "2025-02-02 22:26:55 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-03 07:21:51 +0000",
       "minecraft:swamp": "2025-02-02 21:44:08 +0000",
       "minecraft:forest": "2025-02-02 23:04:37 +0000",
       "minecraft:plains": "2025-02-02 23:08:26 +0000"

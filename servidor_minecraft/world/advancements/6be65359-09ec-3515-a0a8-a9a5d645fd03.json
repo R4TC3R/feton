@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-02-02 23:39:17 +0000"
@@ -773,6 +779,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/garlic_finder": {
     "criteria": {
       "has_redstone": "2025-02-03 04:25:56 +0000"
@@ -944,6 +956,12 @@
   "securitycraft:recipes/securitycraft/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-02-03 04:25:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 07:22:23 +0000"
     },
     "done": true
   },
@@ -1204,6 +1222,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-02-02 23:54:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
     },
     "done": true
   },
@@ -1477,6 +1501,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-02-02 21:37:33 +0000"
@@ -1711,6 +1741,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-02-03 07:12:04 +0000"
@@ -1904,6 +1940,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
+    },
+    "done": true
+  },
   "create_connected:root": {
     "criteria": {
       "0": "2025-02-02 08:50:30 +0000"
@@ -2060,9 +2102,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/glassblower_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 06:16:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
     },
     "done": true
   },
@@ -2099,6 +2153,12 @@
   "vampirism:recipes/vampirism/general/totem_top": {
     "criteria": {
       "has_obsidian": "2025-02-03 04:03:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-02-03 07:22:25 +0000"
     },
     "done": true
   },
@@ -2150,6 +2210,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-02-02 08:50:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
     },
     "done": true
   },
@@ -2453,6 +2519,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:33:12 +0000"
@@ -2528,6 +2600,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-02-03 04:25:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
     },
     "done": true
   },
@@ -2615,6 +2693,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/weighted_stock": {
     "criteria": {
       "has_gray_wool": "2025-02-02 22:01:57 +0000"
@@ -2654,6 +2738,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-02 08:51:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
     },
     "done": true
   },
@@ -3077,6 +3167,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-02-02 20:42:10 +0000"
@@ -3122,6 +3218,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 22:45:47 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-02-03 07:22:25 +0000"
     },
     "done": true
   },
@@ -3251,6 +3353,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/blood_grinder": {
+    "criteria": {
+      "has_hopper": "2025-02-03 07:18:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2025-02-02 20:42:10 +0000"
@@ -3304,6 +3412,8 @@
       "spider_nest": "2025-02-02 21:59:43 +0000",
       "volcano": "2025-02-03 06:59:51 +0000",
       "rocky_rainforest": "2025-02-02 21:59:12 +0000",
+      "volcanic_plains": "2025-02-03 07:23:20 +0000",
+      "glowing_grotto": "2025-02-03 07:23:02 +0000",
       "rainforest": "2025-02-02 22:24:32 +0000"
     },
     "done": false
@@ -3392,6 +3502,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2025-02-02 22:10:06 +0000"
@@ -3434,6 +3550,7 @@
       "minecraft:skeleton": "2025-02-02 22:16:42 +0000",
       "minecraft:vindicator": "2025-02-03 03:53:54 +0000",
       "minecraft:spider": "2025-02-03 00:15:50 +0000",
+      "minecraft:creeper": "2025-02-03 07:23:06 +0000",
       "minecraft:husk": "2025-02-03 01:01:19 +0000",
       "minecraft:zombie": "2025-02-02 22:16:02 +0000"
     },
@@ -3778,6 +3895,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-02-02 22:33:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
     },
     "done": true
   },
@@ -4333,6 +4456,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-02-02 23:34:15 +0000"
@@ -4530,6 +4659,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 22:45:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
     },
     "done": true
   },
@@ -5316,6 +5451,12 @@
   "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-02-03 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_crimsite_from_stone_types_crimsite_stonecutting": {
+    "criteria": {
+      "has_stone_types_crimsite": "2025-02-03 07:23:13 +0000"
     },
     "done": true
   },
