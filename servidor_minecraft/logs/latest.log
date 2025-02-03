@@ -1325,3 +1325,10 @@ java.lang.Throwable: null
 [03Feb2025 21:38:03.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sabrina'/16037, l='ServerLevel[world]', x=-2591.73, y=65.00, z=-348.27] died, message: 'Sabrina was slain by R4TC3R using [LA FILOSA]'
 [03Feb2025 21:38:06.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Robbert'/16056, l='ServerLevel[world]', x=-2587.07, y=63.33, z=-335.75] died, message: 'Robbert was slain by R4TC3R using [LA FILOSA]'
 [03Feb2025 21:38:13.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mark'/16075, l='ServerLevel[world]', x=-2590.11, y=63.00, z=-334.40] died, message: 'Mark was slain by COsito'
+[03Feb2025 21:42:03.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/17479, l='ServerLevel[world]', x=-2451.70, y=84.00, z=423.30] died, message: 'Fletcher was slain by R4TC3R using [LA FILOSA]'
+[03Feb2025 21:44:36.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[03Feb2025 21:46:07.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [What a Deal!]
+[03Feb2025 21:46:07.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [First Trade]
+[03Feb2025 21:47:14.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Georges'/31217, l='ServerLevel[world]', x=-2611.50, y=64.00, z=-354.50] died, message: 'Georges suffocated in a wall'
+[03Feb2025 21:47:59.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[03Feb2025 21:51:11.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4198ms or 83 ticks behind

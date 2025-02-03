@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-03 21:39:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
@@ -2754,6 +2760,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-02-03 21:39:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-02-02 08:51:07 +0000"
@@ -3513,6 +3525,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-02 22:18:11 +0000",
+      "shrubland": "2025-02-03 21:39:16 +0000",
       "fungal_jungle": "2025-02-03 07:46:47 +0000",
       "bayou": "2025-02-02 22:14:37 +0000",
       "floodplain": "2025-02-02 21:53:44 +0000",
@@ -3520,6 +3533,7 @@
       "old_growth_woodland": "2025-02-02 08:50:55 +0000",
       "mediterranean_forest": "2025-02-02 22:51:32 +0000",
       "spider_nest": "2025-02-02 21:59:43 +0000",
+      "redwood_forest": "2025-02-03 21:39:45 +0000",
       "volcano": "2025-02-03 06:59:51 +0000",
       "rocky_rainforest": "2025-02-02 21:59:12 +0000",
       "volcanic_plains": "2025-02-03 07:23:20 +0000",

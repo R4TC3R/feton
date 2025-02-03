@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-03 21:43:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
@@ -2380,6 +2386,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "fletchingtable": "2025-02-03 21:44:51 +0000",
       "gardeningtable": "2025-02-03 04:34:10 +0000",
       "blastfurnace": "2025-02-03 00:13:35 +0000",
       "cauldron": "2025-02-03 05:08:13 +0000",
@@ -3395,6 +3402,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-02-03 21:46:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-03 21:15:24 +0000"
@@ -3447,6 +3460,12 @@
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-02-02 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-03 21:46:07 +0000"
     },
     "done": true
   },
@@ -5467,6 +5486,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-03 04:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-03 21:46:07 +0000"
     },
     "done": true
   },
