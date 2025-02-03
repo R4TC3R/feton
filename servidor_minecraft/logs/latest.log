@@ -1192,3 +1192,4 @@ java.lang.Throwable: null
 [03Feb2025 07:32:17.300] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@384934bd (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
 [03Feb2025 07:46:13.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/157339, l='ServerLevel[world]', x=-2451.49, y=84.00, z=423.30] died, message: 'Fletcher was slain by Zombie'
 [03Feb2025 07:47:10.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [Vampire Diaries]
+[03Feb2025 07:57:17.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 1000 [Prosperity Block] to R4TC3R]
