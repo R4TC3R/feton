@@ -1872,7 +1872,8 @@
       "smoker": "2025-02-02 22:20:44 +0000",
       "blastfurnace": "2025-02-03 00:13:43 +0000",
       "lectern": "2025-02-03 05:14:25 +0000",
-      "woodworkingtable": "2025-02-02 23:16:48 +0000"
+      "woodworkingtable": "2025-02-02 23:16:48 +0000",
+      "composter": "2025-02-03 05:50:22 +0000"
     },
     "done": false
   },
@@ -2323,6 +2324,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-03 05:54:16 +0000"
     },
     "done": true
   },

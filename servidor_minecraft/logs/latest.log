@@ -1107,3 +1107,8 @@ java.lang.Throwable: null
 [03Feb2025 05:44:50.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=543, y=71, z=-407} too far away from player BlockPos{x=95, y=51, z=-11}.
 [03Feb2025 05:44:50.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=543, y=71, z=-407} too far away from player BlockPos{x=95, y=51, z=-11}.
 [03Feb2025 05:44:53.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has reached the goal [Discreet Search]
+[03Feb2025 05:49:12.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro was slain by Zombified Piglin
+[03Feb2025 05:49:12.855] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
+[03Feb2025 05:49:23.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=536, y=74, z=-405} too far away from player BlockPos{x=99, y=50, z=12}.
+[03Feb2025 05:49:23.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=536, y=73, z=-405} too far away from player BlockPos{x=99, y=50, z=12}.
+[03Feb2025 05:54:16.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 80 [Carrot] to R4TC3R]
