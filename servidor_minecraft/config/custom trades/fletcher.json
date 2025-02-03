@@ -1,0 +1,25 @@
+{
+  "profession": "minecraft:fletcher",
+  "removeOtherTrades": false,
+  "maxTrades": 2,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:emerald",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "request": {
+        "itemKey": "minecraft:stick",
+        "amount": 1,
+        "priceModifier": 0
+      },
+      "tradeExp": 1,
+      "maxUses": 999,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5,
+      "UTID": "minecraft:fletcher_emerald_for_stick_2"
+    }
+  ]
+}
