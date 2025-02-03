@@ -1242,3 +1242,7 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [03Feb2025 21:07:18.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2421, y=80, z=430} BlockPos{x=-2421, y=79, z=431}
 [03Feb2025 21:07:18.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2421, y=80, z=430} BlockPos{x=-2421, y=79, z=431}
 [03Feb2025 21:07:20.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2421, y=80, z=430} BlockPos{x=-2421, y=79, z=431}
+[03Feb2025 21:10:40.995] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@57f56f62
+[03Feb2025 21:10:41.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COsito[/127.126.121.69:38095] logged in with entity id 3068 at (-2605.54702818642, 67.0, -347.4430249468157)
+[03Feb2025 21:10:41.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito joined the game
+[03Feb2025 21:10:43.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind

@@ -131,15 +131,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-03 05:27:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -683,9 +683,9 @@
     },
     "done": true
   },
-  "morevillagers:kill_villager": {
+  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
     "criteria": {
-      "killedvillager": "2025-02-03 05:26:41 +0000"
+      "has_bow": "2025-02-03 04:45:51 +0000"
     },
     "done": true
   },
@@ -695,9 +695,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
+  "morevillagers:kill_villager": {
     "criteria": {
-      "has_bow": "2025-02-03 04:45:51 +0000"
+      "killedvillager": "2025-02-03 05:26:41 +0000"
     },
     "done": true
   },
@@ -923,15 +923,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-03 04:34:57 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-03 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-03 04:34:57 +0000"
     },
     "done": true
   },
@@ -1169,15 +1169,15 @@
     },
     "done": true
   },
-  "vampirism:recipes/vampirism/general/castle_block_dark_brick_0": {
-    "criteria": {
-      "has_black_dye": "2025-02-03 05:16:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/castle_block_dark_brick_0": {
+    "criteria": {
+      "has_black_dye": "2025-02-03 05:16:32 +0000"
     },
     "done": true
   },
@@ -1363,15 +1363,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-02-03 05:33:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2025-02-03 05:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-03 05:33:02 +0000"
     },
     "done": true
   },
@@ -1390,6 +1390,12 @@
   "vampirism:recipes/vampirism/hunter/garlic_diffuser_normal": {
     "criteria": {
       "has_diamond": "2025-02-03 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-03 21:10:43 +0000"
     },
     "done": true
   },
@@ -1699,15 +1705,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
-    "criteria": {
-      "has_item": "2025-02-03 05:27:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -1940,15 +1946,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-02-03 05:27:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-02-03 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -1997,6 +2003,12 @@
   "create:recipes/create.palettes/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-03 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-03 21:15:24 +0000"
     },
     "done": true
   },
@@ -2222,15 +2234,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-02-03 04:34:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-03 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-02-03 04:34:57 +0000"
     },
     "done": true
   },
@@ -2354,15 +2366,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_black_dye": "2025-02-03 05:16:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_magenta_dye": "2025-02-03 05:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-02-03 05:16:32 +0000"
     },
     "done": true
   },
@@ -2585,15 +2597,15 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/borderless_glass_light_gray_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-02-03 05:16:47 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2025-02-03 04:45:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_light_gray_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-03 05:16:47 +0000"
     },
     "done": true
   },
@@ -2957,15 +2969,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-02-03 05:27:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_the_recipe": "2025-02-03 04:37:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-03 05:27:26 +0000"
     },
     "done": true
   },
@@ -3383,6 +3395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-03 21:15:24 +0000"
+    },
+    "done": true
+  },
   "morevillagers:all_villages": {
     "criteria": {
       "plains": "2025-02-02 23:38:19 +0000",
@@ -3531,6 +3549,12 @@
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2025-02-03 04:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-03 21:15:24 +0000"
     },
     "done": true
   },
@@ -5068,6 +5092,12 @@
     },
     "done": true
   },
+  "sliceanddice:recipes/tools/slicer": {
+    "criteria": {
+      "has_tool": "2025-02-03 21:12:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-02-03 04:02:27 +0000"
@@ -5143,6 +5173,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-02-03 05:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-03 21:15:24 +0000"
     },
     "done": true
   },
@@ -5254,15 +5290,15 @@
     },
     "done": true
   },
-  "ae2:recipes/ae2.main/network/cables/dense_covered_white": {
-    "criteria": {
-      "has_dyes/black": "2025-02-03 05:16:34 +0000"
-    },
-    "done": true
-  },
   "cgm:recipes/cgm/long_scope": {
     "criteria": {
       "has_black_dye": "2025-02-03 05:16:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2025-02-03 05:16:34 +0000"
     },
     "done": true
   },
@@ -5812,6 +5848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-03 21:15:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-02-03 03:59:18 +0000"
@@ -6016,15 +6058,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_candle": {
-    "criteria": {
-      "has_gray_dye": "2025-02-03 05:16:38 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-02-03 05:16:38 +0000"
     },
     "done": true
   },
@@ -6178,15 +6220,15 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/borderless_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2025-02-03 05:16:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-03 05:16:32 +0000"
     },
     "done": true
   },
@@ -6259,6 +6301,12 @@
   "morevillagers:first_workstation_get": {
     "criteria": {
       "blastfurnace": "2025-02-03 00:13:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-03 21:15:24 +0000"
     },
     "done": true
   },
