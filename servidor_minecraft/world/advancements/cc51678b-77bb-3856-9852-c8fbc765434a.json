@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-02-03 21:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-02-03 03:42:54 +0000"
@@ -682,6 +688,12 @@
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "armorer": "2025-02-03 22:01:31 +0000"
+    },
+    "done": false
   },
   "chiselsandbits:recipes/chiselsandbits/chiseled_printer": {
     "criteria": {
@@ -3082,6 +3094,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-02-03 00:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-02-03 21:58:41 +0000"
     },
     "done": true
   },
