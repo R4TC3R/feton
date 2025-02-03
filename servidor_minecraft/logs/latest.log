@@ -1013,3 +1013,26 @@ java.lang.Throwable: null
 [03Feb2025 04:59:59.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Summoned new Zombie]
 [03Feb2025 05:03:47.043] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/22006, l='ServerLevel[world]', x=-2451.43, y=84.00, z=423.70] died, message: 'Fletcher was slain by Zombie'
 [03Feb2025 05:05:48.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/45506, l='ServerLevel[world]', x=-2451.30, y=84.00, z=423.70] died, message: 'Fletcher was slain by Zombie'
+[03Feb2025 05:09:11.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Summoned new Villager]
+[03Feb2025 05:09:34.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47474, l='ServerLevel[world]', x=-2459.15, y=80.00, z=411.70] died, message: 'Villager was slain by R4TC3R'
+[03Feb2025 05:09:43.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Summoned new Villager]
+[03Feb2025 05:10:14.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Serge'/40341, l='ServerLevel[world]', x=-2600.44, y=65.00, z=-347.37] died, message: 'Serge was slain by COsito'
+[03Feb2025 05:10:14.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Serge'/40341, l='ServerLevel[world]', x=-2600.44, y=65.00, z=-347.37] died: Serge was slain by COsito
+[03Feb2025 05:10:21.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Ilse
+[03Feb2025 05:10:21.869] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:10:47.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/47692, l='ServerLevel[world]', x=-2451.50, y=84.00, z=418.60] died, message: 'Fletcher was slain by Zombie'
+[03Feb2025 05:11:01.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has reached the goal [Chain Death]
+[03Feb2025 05:11:01.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Ilse
+[03Feb2025 05:11:01.018] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:11:14.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Iron Golem
+[03Feb2025 05:11:14.568] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:11:42.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was shot by Raoul
+[03Feb2025 05:11:42.460] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:11:57.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was shot by Noël
+[03Feb2025 05:11:57.865] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:12:09.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 3 [Villager Spawn Egg] to R4TC3R]
+[03Feb2025 05:12:10.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was shot by Noël
+[03Feb2025 05:12:10.362] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:13:10.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [Who is Cutting Onions?]
+[03Feb2025 05:13:10.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 6 [Crying Obsidian] to R4TC3R]
+[03Feb2025 05:13:27.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [They Grow Up So Fast]

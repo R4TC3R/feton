@@ -17399,3 +17399,71 @@ java.lang.Throwable: null
 [03Feb2025 05:07:20.951] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@71655e51, c=net.minecraft.world.inventory.ChestMenu@5a3a8d2a, b=0, e=53}
 [03Feb2025 05:07:21.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Feb2025 05:07:21.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 05:08:09.705] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 40
+[03Feb2025 05:08:09.706] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@c1fe4aa=InventoryMapping{i=net.minecraft.world.CompoundContainer@c1fe4aa, c=net.minecraft.world.inventory.ChestMenu@2c85405c, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2c85405c, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2c85405c, b=54, e=80}}
+[03Feb2025 05:08:09.706] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@c1fe4aa, c=net.minecraft.world.inventory.ChestMenu@2c85405c, b=0, e=53}
+[03Feb2025 05:08:31.659] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[03Feb2025 05:08:31.659] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4fd4d9fc, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4fd4d9fc, b=54, e=80}, net.minecraft.world.CompoundContainer@136cb687=InventoryMapping{i=net.minecraft.world.CompoundContainer@136cb687, c=net.minecraft.world.inventory.ChestMenu@4fd4d9fc, b=0, e=53}}
+[03Feb2025 05:08:31.659] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@136cb687, c=net.minecraft.world.inventory.ChestMenu@4fd4d9fc, b=0, e=53}
+[03Feb2025 05:08:57.268] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 40
+[03Feb2025 05:08:57.269] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@b7b4a68=InventoryMapping{i=net.minecraft.world.CompoundContainer@b7b4a68, c=net.minecraft.world.inventory.ChestMenu@48f02ef2, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@48f02ef2, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@48f02ef2, b=54, e=80}}
+[03Feb2025 05:08:57.269] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@b7b4a68, c=net.minecraft.world.inventory.ChestMenu@48f02ef2, b=0, e=53}
+[03Feb2025 05:09:00.303] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 25
+[03Feb2025 05:09:00.304] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@b7b4a68=InventoryMapping{i=net.minecraft.world.CompoundContainer@b7b4a68, c=net.minecraft.world.inventory.ChestMenu@48f02ef2, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@48f02ef2, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@48f02ef2, b=54, e=80}}
+[03Feb2025 05:09:00.304] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@b7b4a68, c=net.minecraft.world.inventory.ChestMenu@48f02ef2, b=0, e=53}
+[03Feb2025 05:09:11.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Summoned new Villager]
+[03Feb2025 05:09:34.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/47474, l='ServerLevel[world]', x=-2459.15, y=80.00, z=411.70] died, message: 'Villager was slain by R4TC3R'
+[03Feb2025 05:09:43.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Summoned new Villager]
+[03Feb2025 05:10:11.879] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 40
+[03Feb2025 05:10:11.879] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@33e047c6=InventoryMapping{i=net.minecraft.world.CompoundContainer@33e047c6, c=net.minecraft.world.inventory.ChestMenu@655dc1f, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@655dc1f, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@655dc1f, b=54, e=80}}
+[03Feb2025 05:10:11.879] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@33e047c6, c=net.minecraft.world.inventory.ChestMenu@655dc1f, b=0, e=53}
+[03Feb2025 05:10:14.704] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Serge'/40341, l='ServerLevel[world]', x=-2600.44, y=65.00, z=-347.37] died, message: 'Serge was slain by COsito'
+[03Feb2025 05:10:14.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Serge'/40341, l='ServerLevel[world]', x=-2600.44, y=65.00, z=-347.37] died: Serge was slain by COsito
+[03Feb2025 05:10:21.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Ilse
+[03Feb2025 05:10:21.849] [Server thread/DEBUG] [tombstone/]: A new grave of the player COsito was created at position [x:-2599, y:65, z:-344, dim:minecraft:overworld]
+[03Feb2025 05:10:21.869] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:10:24.865] [Server thread/DEBUG] [twilightforest/]: Player COsito (cc51678b-77bb-3856-9852-c8fbc765434a) respawned and received items held in storage
+[03Feb2025 05:10:47.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/47692, l='ServerLevel[world]', x=-2451.50, y=84.00, z=418.60] died, message: 'Fletcher was slain by Zombie'
+[03Feb2025 05:11:01.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has reached the goal [Chain Death]
+[03Feb2025 05:11:01.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Ilse
+[03Feb2025 05:11:01.005] [Server thread/DEBUG] [tombstone/]: A new grave of the player COsito was created at position [x:-2601, y:65, z:-341, dim:minecraft:overworld]
+[03Feb2025 05:11:01.018] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:11:02.297] [Server thread/DEBUG] [twilightforest/]: Player COsito (cc51678b-77bb-3856-9852-c8fbc765434a) respawned and received items held in storage
+[03Feb2025 05:11:14.322] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 31
+[03Feb2025 05:11:14.322] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@a47f688, b=81, e=89}, net.minecraft.world.CompoundContainer@143ece77=InventoryMapping{i=net.minecraft.world.CompoundContainer@143ece77, c=net.minecraft.world.inventory.ChestMenu@a47f688, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@a47f688, b=54, e=80}}
+[03Feb2025 05:11:14.322] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@143ece77, c=net.minecraft.world.inventory.ChestMenu@a47f688, b=0, e=53}
+[03Feb2025 05:11:14.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Iron Golem
+[03Feb2025 05:11:14.554] [Server thread/DEBUG] [tombstone/]: A new grave of the player COsito was created at position [x:-2592, y:68, z:-349, dim:minecraft:overworld]
+[03Feb2025 05:11:14.568] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:11:16.100] [Server thread/DEBUG] [twilightforest/]: Player COsito (cc51678b-77bb-3856-9852-c8fbc765434a) respawned and received items held in storage
+[03Feb2025 05:11:42.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was shot by Raoul
+[03Feb2025 05:11:42.456] [Server thread/DEBUG] [tombstone/]: A new grave of the player COsito was created at position [x:-2596, y:65, z:-347, dim:minecraft:overworld]
+[03Feb2025 05:11:42.460] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:11:44.225] [Server thread/DEBUG] [twilightforest/]: Player COsito (cc51678b-77bb-3856-9852-c8fbc765434a) respawned and received items held in storage
+[03Feb2025 05:11:57.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was shot by Noël
+[03Feb2025 05:11:57.859] [Server thread/DEBUG] [tombstone/]: A new grave of the player COsito was created at position [x:-2597, y:65, z:-345, dim:minecraft:overworld]
+[03Feb2025 05:11:57.865] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:11:59.311] [Server thread/DEBUG] [twilightforest/]: Player COsito (cc51678b-77bb-3856-9852-c8fbc765434a) respawned and received items held in storage
+[03Feb2025 05:12:09.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 3 [Villager Spawn Egg] to R4TC3R]
+[03Feb2025 05:12:10.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was shot by Noël
+[03Feb2025 05:12:10.359] [Server thread/DEBUG] [tombstone/]: A new grave of the player COsito was created at position [x:-2588, y:66, z:-361, dim:minecraft:overworld]
+[03Feb2025 05:12:10.362] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 05:12:11.564] [Server thread/DEBUG] [twilightforest/]: Player COsito (cc51678b-77bb-3856-9852-c8fbc765434a) respawned and received items held in storage
+[03Feb2025 05:12:21.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 05:12:21.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 05:13:10.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [Who is Cutting Onions?]
+[03Feb2025 05:13:10.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 6 [Crying Obsidian] to R4TC3R]
+[03Feb2025 05:13:27.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [They Grow Up So Fast]
+[03Feb2025 05:14:16.068] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[03Feb2025 05:14:16.069] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@607b7679, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@607b7679, b=54, e=80}, net.minecraft.world.CompoundContainer@26adb9c1=InventoryMapping{i=net.minecraft.world.CompoundContainer@26adb9c1, c=net.minecraft.world.inventory.ChestMenu@607b7679, b=0, e=53}}
+[03Feb2025 05:14:16.069] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@26adb9c1, c=net.minecraft.world.inventory.ChestMenu@607b7679, b=0, e=53}
+[03Feb2025 05:14:27.010] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraft/world/level/block/entity/LecternBlockEntity$1 (target of net/minecraft/world/Container)
+[03Feb2025 05:15:40.852] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[03Feb2025 05:15:40.852] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@744b1433, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@744b1433, b=54, e=80}, net.minecraft.world.CompoundContainer@e9a6bd1=InventoryMapping{i=net.minecraft.world.CompoundContainer@e9a6bd1, c=net.minecraft.world.inventory.ChestMenu@744b1433, b=0, e=53}}
+[03Feb2025 05:15:40.852] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@e9a6bd1, c=net.minecraft.world.inventory.ChestMenu@744b1433, b=0, e=53}
+[03Feb2025 05:15:51.854] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 49
+[03Feb2025 05:15:51.854] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@677fd310, b=81, e=89}, net.minecraft.world.CompoundContainer@6bc771fe=InventoryMapping{i=net.minecraft.world.CompoundContainer@6bc771fe, c=net.minecraft.world.inventory.ChestMenu@677fd310, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@677fd310, b=54, e=80}}
+[03Feb2025 05:15:51.854] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6bc771fe, c=net.minecraft.world.inventory.ChestMenu@677fd310, b=0, e=53}
+[03Feb2025 05:17:21.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 05:17:21.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 05:17:28.906] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming com/mrcrayfish/guns/common/container/WorkbenchContainer$1 (target of net/minecraft/world/inventory/Slot)

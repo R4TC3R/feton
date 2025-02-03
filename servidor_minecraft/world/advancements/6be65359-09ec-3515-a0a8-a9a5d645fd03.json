@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-03 05:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
@@ -544,6 +550,7 @@
       "cleric": "2025-02-03 04:25:54 +0000",
       "fletcher": "2025-02-03 00:04:52 +0000",
       "woodworker": "2025-02-03 00:05:44 +0000",
+      "librarian": "2025-02-03 05:15:08 +0000",
       "weaponsmith": "2025-02-03 01:08:47 +0000",
       "armorer": "2025-02-03 00:15:25 +0000",
       "hunter": "2025-02-03 04:24:22 +0000"
@@ -1356,6 +1363,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-02-03 05:14:13 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/desert_eagle": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
@@ -1485,6 +1498,12 @@
   "vampirism:recipes/vampirism/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2025-02-02 22:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-03 05:13:10 +0000"
     },
     "done": true
   },
@@ -1852,6 +1871,7 @@
       "gardeningtable": "2025-02-02 22:12:47 +0000",
       "smoker": "2025-02-02 22:20:44 +0000",
       "blastfurnace": "2025-02-03 00:13:43 +0000",
+      "lectern": "2025-02-03 05:14:25 +0000",
       "woodworkingtable": "2025-02-02 23:16:48 +0000"
     },
     "done": false
