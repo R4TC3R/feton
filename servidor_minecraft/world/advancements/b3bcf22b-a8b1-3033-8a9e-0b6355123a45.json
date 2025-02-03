@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-02-03 04:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:21 +0000"
@@ -428,6 +434,12 @@
   "additionalguns:recipes/additionalguns/9a91": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-02-03 04:59:14 +0000"
     },
     "done": true
   },
@@ -946,6 +958,12 @@
   "create:recipes/create.palettes/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-03 00:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-02-03 04:59:14 +0000"
     },
     "done": true
   },
@@ -2321,6 +2339,12 @@
   "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-03 00:19:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_wool": "2025-02-03 04:59:14 +0000"
     },
     "done": true
   },

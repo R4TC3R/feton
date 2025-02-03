@@ -1008,3 +1008,8 @@ java.lang.Throwable: null
 [03Feb2025 04:55:35.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was shot by Raoul
 [03Feb2025 04:55:35.521] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
 [03Feb2025 04:56:43.104] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24235, l='ServerLevel[world]', x=-2456.50, y=84.00, z=439.54] died, message: 'Villager was slain by R4TC3R'
+[03Feb2025 04:58:21.394] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marcel'/24751, l='ServerLevel[world]', x=-2590.47, y=63.00, z=-340.58] died, message: 'Marcel (Following) suffocated in a wall'
+[03Feb2025 04:58:21.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marcel'/24751, l='ServerLevel[world]', x=-2590.47, y=63.00, z=-340.58] died: Marcel (Following) suffocated in a wall
+[03Feb2025 04:59:59.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Summoned new Zombie]
+[03Feb2025 05:03:47.043] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/22006, l='ServerLevel[world]', x=-2451.43, y=84.00, z=423.70] died, message: 'Fletcher was slain by Zombie'
+[03Feb2025 05:05:48.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/45506, l='ServerLevel[world]', x=-2451.30, y=84.00, z=423.70] died, message: 'Fletcher was slain by Zombie'

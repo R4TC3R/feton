@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/gold_hull": {
+    "criteria": {
+      "has_item": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-03 04:33:12 +0000"
@@ -580,6 +586,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/blood_pedestal": {
+    "criteria": {
+      "has_gold": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:33:12 +0000"
@@ -742,6 +754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/hunting_post": {
     "criteria": {
       "has_arrow": "2025-02-02 22:46:52 +0000"
@@ -865,6 +883,12 @@
   "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
     },
     "done": true
   },
@@ -1176,6 +1200,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/altar_infusion": {
+    "criteria": {
+      "has_gold": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-02 21:34:59 +0000"
@@ -1410,6 +1440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-02-02 22:40:39 +0000"
@@ -1579,6 +1615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-02-02 23:34:15 +0000"
@@ -1696,6 +1738,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-02-03 04:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
     },
     "done": true
   },
@@ -1862,6 +1910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/claymore": {
     "criteria": {
       "has_redstone": "2025-02-03 04:25:56 +0000"
@@ -1964,6 +2018,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m4a1s": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
@@ -2051,6 +2111,12 @@
   "securitycraft:recipes/securitycraft/floor_trap": {
     "criteria": {
       "has_iron": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
     },
     "done": true
   },
@@ -2450,6 +2516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/cross": {
     "criteria": {
       "has_planks": "2025-02-02 20:42:10 +0000"
@@ -2543,6 +2615,12 @@
   "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-02-02 21:47:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/gold_bars_from_gold_ingot_stonecutting": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
     },
     "done": true
   },
@@ -2714,6 +2792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/aks74u": {
     "criteria": {
       "has_planks": "2025-02-02 08:51:05 +0000"
@@ -2877,6 +2961,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_gold": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-02-02 08:50:44 +0000"
@@ -3006,6 +3096,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-02-02 21:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
     },
     "done": true
   },
@@ -3642,6 +3738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-02 22:52:04 +0000"
@@ -4202,6 +4304,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/gold_bars": {
+    "criteria": {
+      "has_item": "2025-02-03 05:03:13 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/misc/tiny_tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-03 04:42:25 +0000"
@@ -4295,6 +4403,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_limited_barrel_3": {
     "criteria": {
       "has_dark_oak_plank": "2025-02-02 23:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
     },
     "done": true
   },
@@ -4613,6 +4727,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-02-03 04:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-03 05:03:13 +0000"
     },
     "done": true
   },
