@@ -1119,3 +1119,9 @@ java.lang.Throwable: null
 [03Feb2025 06:04:26.998] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33122aba
 [03Feb2025 06:04:27.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:51853] logged in with entity id 86735 at (540.6999999880791, 66.0, -408.30000001192093)
 [03Feb2025 06:04:27.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
+[03Feb2025 06:18:02.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has reached the goal [Bone Crusher]
+[03Feb2025 06:18:54.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Disconnected
+[03Feb2025 06:18:54.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[03Feb2025 06:19:05.350] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79bed100
+[03Feb2025 06:19:05.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:57029] logged in with entity id 97785 at (606.381279857981, 37.0, -488.39277035735864)
+[03Feb2025 06:19:05.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
