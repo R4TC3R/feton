@@ -1160,3 +1160,5 @@ java.lang.Throwable: null
 [03Feb2025 06:47:02.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [Where Is The Stone Pen?]
 [03Feb2025 06:58:11.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [Strange Encounter]
 [03Feb2025 07:09:27.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3248, y=74, z=959} BlockPos{x=-3248, y=74, z=961}
+[03Feb2025 07:15:08.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2467, y=86, z=435} BlockPos{x=-2467, y=84, z=436}
+[03Feb2025 07:15:08.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2467, y=86, z=436} BlockPos{x=-2467, y=84, z=436}
