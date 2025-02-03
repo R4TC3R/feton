@@ -987,3 +987,18 @@ java.lang.Throwable: null
 [03Feb2025 04:16:53.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kye'/18600, l='ServerLevel[world]', x=515.20, y=56.00, z=-416.07] died, message: 'Kye was slain by Zombie'
 [03Feb2025 04:16:53.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kye'/18600, l='ServerLevel[world]', x=515.20, y=56.00, z=-416.07] died: Kye was slain by Zombie
 [03Feb2025 04:24:51.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [Into Fire]
+[03Feb2025 04:27:38.552] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/21979, l='ServerLevel[world]', x=-2443.51, y=84.00, z=423.62] died, message: 'Cleric was slain by R4TC3R'
+[03Feb2025 04:27:38.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [Bad Deal]
+[03Feb2025 04:28:07.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Disconnected
+[03Feb2025 04:28:07.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[03Feb2025 04:28:18.655] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@52192953
+[03Feb2025 04:28:18.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:46701] logged in with entity id 29562 at (585.6999999880791, 47.0, -416.69999998807907)
+[03Feb2025 04:28:18.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
+[03Feb2025 04:35:29.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [Local Brewery]
+[03Feb2025 04:36:14.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [We Need to Go Deeper]
+[03Feb2025 04:36:17.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
+[03Feb2025 04:37:11.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Disconnected
+[03Feb2025 04:37:11.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[03Feb2025 04:37:56.503] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[03Feb2025 04:37:56.505] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[03Feb2025 04:42:25.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 12 [Gunpowder] to R4TC3R]
