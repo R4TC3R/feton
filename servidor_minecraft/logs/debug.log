@@ -18541,3 +18541,47 @@ java.lang.Throwable: null
 [03Feb2025 06:28:03.296] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
 [03Feb2025 06:28:03.296] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@245813fa, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@245813fa, b=54, e=80}, net.minecraft.world.CompoundContainer@73c18d7=InventoryMapping{i=net.minecraft.world.CompoundContainer@73c18d7, c=net.minecraft.world.inventory.ChestMenu@245813fa, b=0, e=53}}
 [03Feb2025 06:28:03.296] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@73c18d7, c=net.minecraft.world.inventory.ChestMenu@245813fa, b=0, e=53}
+[03Feb2025 06:30:07.950] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 49
+[03Feb2025 06:30:07.950] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1e0af5e0, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1e0af5e0, b=54, e=80}, net.minecraft.world.CompoundContainer@2e540ad9=InventoryMapping{i=net.minecraft.world.CompoundContainer@2e540ad9, c=net.minecraft.world.inventory.ChestMenu@1e0af5e0, b=0, e=53}}
+[03Feb2025 06:30:07.950] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@2e540ad9, c=net.minecraft.world.inventory.ChestMenu@1e0af5e0, b=0, e=53}
+[03Feb2025 06:32:14.757] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 41
+[03Feb2025 06:32:14.758] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5e015088, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5e015088, b=54, e=80}, net.minecraft.world.CompoundContainer@7c74154b=InventoryMapping{i=net.minecraft.world.CompoundContainer@7c74154b, c=net.minecraft.world.inventory.ChestMenu@5e015088, b=0, e=53}}
+[03Feb2025 06:32:14.758] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@7c74154b, c=net.minecraft.world.inventory.ChestMenu@5e015088, b=0, e=53}
+[03Feb2025 06:32:21.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 06:32:21.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 06:34:01.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/87593, l='ServerLevel[world]', x=-2451.30, y=84.00, z=443.46] died, message: 'Fletcher was slain by Zombie'
+[03Feb2025 06:34:44.800] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 48
+[03Feb2025 06:34:44.800] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@7e180e58=InventoryMapping{i=net.minecraft.world.CompoundContainer@7e180e58, c=net.minecraft.world.inventory.ChestMenu@1d530268, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1d530268, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1d530268, b=54, e=80}}
+[03Feb2025 06:34:44.800] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@7e180e58, c=net.minecraft.world.inventory.ChestMenu@1d530268, b=0, e=53}
+[03Feb2025 06:37:21.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 06:37:21.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 06:38:39.113] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 67
+[03Feb2025 06:38:39.114] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@6c7d979d, b=135, e=143}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@6c7d979d, b=0, e=107}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@6c7d979d, b=108, e=134}}
+[03Feb2025 06:38:39.114] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@6c7d979d, b=0, e=107}
+[03Feb2025 06:39:08.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro was shot by Skeleton
+[03Feb2025 06:39:08.056] [Server thread/DEBUG] [tombstone/]: A new grave of the player Saekro was created at position [x:633, y:-15, z:-417, dim:minecraft:overworld]
+[03Feb2025 06:39:08.057] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
+[03Feb2025 06:39:08.996] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:70) ~[Vampirism-1.18.2-1.8.8.jar%23114!/:1.8.8]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:145) ~[Vampirism-1.18.2-1.8.8.jar%23114!/:1.8.8]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:25) ~[Vampirism-1.18.2-1.8.8.jar%23114!/:1.8.8]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[03Feb2025 06:39:09.714] [Server thread/DEBUG] [twilightforest/]: Player Saekro (b3bcf22b-a8b1-3033-8a9e-0b6355123a45) respawned and received items held in storage
+[03Feb2025 06:39:23.020] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 81
+[03Feb2025 06:39:23.020] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@73a2bd8f, b=135, e=143}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@73a2bd8f, b=0, e=107}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@73a2bd8f, b=108, e=134}}
+[03Feb2025 06:39:23.020] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@73a2bd8f, b=0, e=107}
