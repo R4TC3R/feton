@@ -1420,3 +1420,5 @@ java.lang.Throwable: null
 [03Feb2025 23:19:32.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 60 [Iron Ingot] to COsito]
 [03Feb2025 23:20:21.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Disconnected
 [03Feb2025 23:20:21.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[03Feb2025 23:30:31.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COsito lost connection: Disconnected
+[03Feb2025 23:30:31.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito left the game
