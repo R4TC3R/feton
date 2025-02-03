@@ -1525,6 +1525,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 06:18:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 06:16:57 +0000"
@@ -1558,6 +1564,12 @@
   "vampirism:recipes/vampirism/general/cure_item": {
     "criteria": {
       "has_apple": "2025-02-02 23:21:50 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_sheet_metal_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2025-02-03 06:21:10 +0000"
     },
     "done": true
   },
@@ -2468,6 +2480,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-03 06:21:10 +0000"
     },
     "done": true
   },
@@ -4442,6 +4460,12 @@
   "vampirism:recipes/vampirism/vampire/vampire_clothing_legs": {
     "criteria": {
       "has_wool": "2025-02-02 22:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-03 06:21:10 +0000"
     },
     "done": true
   },

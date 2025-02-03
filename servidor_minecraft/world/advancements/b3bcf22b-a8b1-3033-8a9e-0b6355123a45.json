@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 06:24:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:21 +0000"
@@ -74,6 +80,12 @@
   "create:recipes/create.base/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-02-03 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },
@@ -323,6 +335,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 06:24:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:22 +0000"
@@ -350,6 +368,18 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-02 22:46:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-02-03 06:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },
@@ -755,6 +785,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-03 06:23:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-02-02 21:51:22 +0000"
@@ -764,6 +800,12 @@
   "create:recipes/create.palettes/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-03 00:19:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },
@@ -1093,6 +1135,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 06:24:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-03 00:19:53 +0000"
@@ -1349,6 +1397,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-02-03 04:36:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },
@@ -2524,6 +2578,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 06:24:58 +0000"
+    },
+    "done": true
+  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-02-02 21:50:44 +0000"
@@ -2878,6 +2938,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 06:24:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-03 05:50:27 +0000"
@@ -3085,6 +3151,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-02-02 23:55:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 06:24:58 +0000"
     },
     "done": true
   },
@@ -3414,6 +3486,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-03 06:23:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-03 05:54:29 +0000"
@@ -3585,6 +3663,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-02-03 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },
@@ -3804,6 +3888,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 06:24:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:windswept_hills": "2025-02-02 23:06:02 +0000",
@@ -3817,6 +3907,12 @@
   "createdeco:recipes/createdeco.props/light_gray_placard": {
     "criteria": {
       "has_dye": "2025-02-03 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/redstone/misc/vanilla_comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },
@@ -4030,6 +4126,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-02-03 06:25:06 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2025-02-02 21:50:44 +0000"
@@ -4090,11 +4192,23 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-03 06:23:55 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/infinity_booster_card": {
     "criteria": {
       "has_wit": "2025-02-02 21:50:44 +0000",
       "has_wpt": "2025-02-02 21:50:44 +0000",
       "has_wct": "2025-02-02 21:50:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },
@@ -4242,6 +4356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:23:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-02-02 21:51:22 +0000"
@@ -4281,6 +4401,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-02 22:08:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },
@@ -4343,6 +4469,12 @@
   "ae2:recipes/ae2.main/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-02-02 22:22:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/combat/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },
@@ -4421,6 +4553,12 @@
   "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-02 22:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },
@@ -4571,6 +4709,12 @@
   "create:recipes/create.palettes/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-03 00:19:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 06:24:58 +0000"
     },
     "done": true
   },
@@ -5036,6 +5180,12 @@
     },
     "done": true
   },
+  "ae2:recipes/redstone/misc/vanilla_daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:23:55 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/light_gray_decal": {
     "criteria": {
       "has_dye": "2025-02-03 05:32:03 +0000"
@@ -5045,6 +5195,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-02 22:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 06:24:58 +0000"
     },
     "done": true
   },
@@ -5087,6 +5243,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-02 23:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },
@@ -5177,6 +5339,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-02 22:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-03 06:23:55 +0000"
     },
     "done": true
   },

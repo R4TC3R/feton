@@ -1125,3 +1125,7 @@ java.lang.Throwable: null
 [03Feb2025 06:19:05.350] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79bed100
 [03Feb2025 06:19:05.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:57029] logged in with entity id 97785 at (606.381279857981, 37.0, -488.39277035735864)
 [03Feb2025 06:19:05.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
+[03Feb2025 06:20:27.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [Suit Up]
+[03Feb2025 06:23:12.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Saekro> 540 70 -406
+[03Feb2025 06:25:43.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro was doomed to fall by Creeper
+[03Feb2025 06:25:43.102] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
