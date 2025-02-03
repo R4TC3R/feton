@@ -982,3 +982,8 @@ java.lang.Throwable: null
 [03Feb2025 04:15:21.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COsito[/127.126.121.69:34693] logged in with entity id 24700 at (-2610.300000011921, -24.0, -437.69999998807907)
 [03Feb2025 04:15:21.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito joined the game
 [03Feb2025 04:15:24.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2476ms or 49 ticks behind
+[03Feb2025 04:16:50.757] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[03Feb2025 04:16:50.757] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[03Feb2025 04:16:53.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kye'/18600, l='ServerLevel[world]', x=515.20, y=56.00, z=-416.07] died, message: 'Kye was slain by Zombie'
+[03Feb2025 04:16:53.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kye'/18600, l='ServerLevel[world]', x=515.20, y=56.00, z=-416.07] died: Kye was slain by Zombie
+[03Feb2025 04:24:51.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [Into Fire]
