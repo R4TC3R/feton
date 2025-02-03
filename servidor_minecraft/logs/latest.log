@@ -1002,3 +1002,9 @@ java.lang.Throwable: null
 [03Feb2025 04:37:56.503] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
 [03Feb2025 04:37:56.505] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
 [03Feb2025 04:42:25.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 12 [Gunpowder] to R4TC3R]
+[03Feb2025 04:50:33.853] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ddcbd46
+[03Feb2025 04:50:33.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:37261] logged in with entity id 38027 at (66.99055341095331, 68.0, -49.189289540638875)
+[03Feb2025 04:50:33.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
+[03Feb2025 04:55:35.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was shot by Raoul
+[03Feb2025 04:55:35.521] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[03Feb2025 04:56:43.104] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24235, l='ServerLevel[world]', x=-2456.50, y=84.00, z=439.54] died, message: 'Villager was slain by R4TC3R'
