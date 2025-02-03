@@ -1112,3 +1112,10 @@ java.lang.Throwable: null
 [03Feb2025 05:49:23.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=536, y=74, z=-405} too far away from player BlockPos{x=99, y=50, z=12}.
 [03Feb2025 05:49:23.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=536, y=73, z=-405} too far away from player BlockPos{x=99, y=50, z=12}.
 [03Feb2025 05:54:16.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 80 [Carrot] to R4TC3R]
+[03Feb2025 06:02:26.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Disconnected
+[03Feb2025 06:02:26.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[03Feb2025 06:02:40.906] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/85916, l='ServerLevel[world]', x=-2458.03, y=83.00, z=450.91] died, message: 'Villager was slain by R4TC3R'
+[03Feb2025 06:02:40.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [Even Badder Deal]
+[03Feb2025 06:04:26.998] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33122aba
+[03Feb2025 06:04:27.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:51853] logged in with entity id 86735 at (540.6999999880791, 66.0, -408.30000001192093)
+[03Feb2025 06:04:27.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
