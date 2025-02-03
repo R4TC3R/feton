@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-02-03 04:03:58 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/mahogany_fence": {
     "criteria": {
       "has_planks": "2025-02-03 00:03:32 +0000"
@@ -506,6 +512,12 @@
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-03 04:12:15 +0000"
     },
     "done": true
   },
@@ -694,6 +706,12 @@
   "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-03 00:03:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-02-03 04:03:58 +0000"
     },
     "done": true
   },
@@ -1194,6 +1212,12 @@
   "cgm:recipes/cgm/assault_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-03 04:12:15 +0000"
     },
     "done": true
   },
@@ -1740,6 +1764,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2025-02-03 04:12:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
@@ -1757,6 +1787,12 @@
       "in_water": "2025-02-02 21:37:33 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-02-03 04:08:33 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cookie": {
     "criteria": {
@@ -1922,6 +1958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-03 04:12:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-02-02 22:11:24 +0000"
@@ -1961,6 +2003,12 @@
   "vampirism:recipes/vampirism/general/fire_place": {
     "criteria": {
       "has_logs": "2025-02-02 21:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-03 04:08:33 +0000"
     },
     "done": true
   },
@@ -2251,6 +2299,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-02-02 21:37:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-03 04:12:15 +0000"
     },
     "done": true
   },
@@ -2573,6 +2627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-03 04:03:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 22:45:47 +0000"
@@ -2645,6 +2705,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-02-03 04:03:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-02-02 22:45:42 +0000"
@@ -2690,6 +2756,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-02-02 21:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-03 04:08:33 +0000"
     },
     "done": true
   },
@@ -3311,6 +3383,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-03 04:03:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_3": {
     "criteria": {
       "has_spruce_plank": "2025-02-02 22:58:26 +0000"
@@ -3368,6 +3446,12 @@
   "additionalguns:recipes/additionalguns/banshee": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-02-03 04:03:58 +0000"
     },
     "done": true
   },
