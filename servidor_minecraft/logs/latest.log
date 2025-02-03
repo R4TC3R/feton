@@ -1152,3 +1152,9 @@ java.lang.Throwable: null
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
 	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23116!/:?]
 	at java.lang.Thread.run(Thread.java:840) [?:?]
+[03Feb2025 06:44:44.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Disconnected
+[03Feb2025 06:44:44.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[03Feb2025 06:44:56.495] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f05ebf8
+[03Feb2025 06:44:56.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:54869] logged in with entity id 121329 at (635.6999999880791, 8.0, -418.4092177994361)
+[03Feb2025 06:44:56.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
+[03Feb2025 06:47:02.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [Where Is The Stone Pen?]
