@@ -762,6 +762,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-02-03 07:47:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-02-03 06:01:57 +0000"
@@ -3405,6 +3411,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-02 22:18:11 +0000",
+      "fungal_jungle": "2025-02-03 07:46:47 +0000",
       "bayou": "2025-02-02 22:14:37 +0000",
       "floodplain": "2025-02-02 21:53:44 +0000",
       "lush_savanna": "2025-02-02 23:58:34 +0000",
@@ -3552,7 +3559,9 @@
       "minecraft:vindicator": "2025-02-03 03:53:54 +0000",
       "minecraft:spider": "2025-02-03 00:15:50 +0000",
       "minecraft:creeper": "2025-02-03 07:23:06 +0000",
+      "minecraft:witch": "2025-02-03 07:46:55 +0000",
       "minecraft:husk": "2025-02-03 01:01:19 +0000",
+      "minecraft:enderman": "2025-02-03 07:47:08 +0000",
       "minecraft:zombie": "2025-02-02 22:16:02 +0000"
     },
     "done": false
@@ -3926,6 +3935,12 @@
   "securitycraft:recipes/securitycraft/block_change_detector": {
     "criteria": {
       "has_iron": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-03 07:46:56 +0000"
     },
     "done": true
   },
@@ -4581,7 +4596,8 @@
     "criteria": {
       "cooked_porkchop": "2025-02-02 21:47:03 +0000",
       "cooked_mutton": "2025-02-02 23:18:40 +0000",
-      "cooked_beef": "2025-02-02 22:08:42 +0000"
+      "cooked_beef": "2025-02-02 22:08:42 +0000",
+      "golden_carrot": "2025-02-03 07:41:48 +0000"
     },
     "done": false
   },
@@ -4930,6 +4946,12 @@
   "minecolonies:recipes/minecolonies/supplycampdeployer": {
     "criteria": {
       "has_chest": "2025-02-02 22:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-03 07:46:56 +0000"
     },
     "done": true
   },
