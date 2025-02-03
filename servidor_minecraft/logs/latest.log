@@ -1417,3 +1417,6 @@ java.lang.Throwable: null
 [03Feb2025 23:10:48.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
 [03Feb2025 23:10:48.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COsito moved too quickly! 9.918003695450352,-1.2468000194787976,0.918240305231393
 [03Feb2025 23:13:31.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/129607, l='ServerLevel[world]', x=-2443.50, y=85.35, z=421.59] died, message: 'Armorer was slain by R4TC3R using [FORTUNA]'
+[03Feb2025 23:19:32.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 60 [Iron Ingot] to COsito]
+[03Feb2025 23:20:21.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Disconnected
+[03Feb2025 23:20:21.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
