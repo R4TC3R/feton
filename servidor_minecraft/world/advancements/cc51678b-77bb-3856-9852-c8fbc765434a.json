@@ -983,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-03 23:01:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-02-02 21:27:44 +0000"

@@ -1389,3 +1389,16 @@ java.lang.Throwable: null
 [03Feb2025 22:48:51.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lucie'/109961, l='ServerLevel[world]', x=-2612.50, y=64.31, z=-358.50] died, message: 'Lucie drowned'
 [03Feb2025 22:48:51.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lucie'/109961, l='ServerLevel[world]', x=-2612.50, y=64.31, z=-358.50] died: Lucie drowned
 [03Feb2025 22:50:17.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [A Seedy Place]
+[03Feb2025 22:53:08.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R4TC3R lost connection: Timed out
+[03Feb2025 22:53:08.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R left the game
+[03Feb2025 22:55:08.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Timed out
+[03Feb2025 22:55:08.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[03Feb2025 22:55:59.372] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1eff7154[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:53951) lost connection: Disconnected
+[03Feb2025 22:56:28.565] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76964e75[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:46529) lost connection: Disconnected
+[03Feb2025 22:57:08.824] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@163d8c67
+[03Feb2025 22:57:08.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:49479] logged in with entity id 122963 at (-1512.220985207402, 121.0, -103.60135336545031)
+[03Feb2025 22:57:08.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
+[03Feb2025 22:58:22.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/110024, l='ServerLevel[world]', x=-2625.71, y=69.54, z=-358.88] died, message: 'Forester was slain by Vindicator'
+[03Feb2025 22:59:21.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Werner'/109761, l='ServerLevel[world]', x=-2626.73, y=69.00, z=-350.21] died, message: 'Werner was slain by Vindicator'
+[03Feb2025 22:59:21.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Werner'/109761, l='ServerLevel[world]', x=-2626.73, y=69.00, z=-350.21] died: Werner was slain by Vindicator
+[03Feb2025 23:01:27.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [Not Today, Thank You]
