@@ -1374,3 +1374,18 @@ java.lang.Throwable: null
 [03Feb2025 22:29:00.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has completed the challenge [Hunted]
 [03Feb2025 22:33:36.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has reached the goal [Fortuitous Militia]
 [03Feb2025 22:42:38.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [Cover Me with Diamonds]
+[03Feb2025 22:43:07.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [Ace Trainer]
+[03Feb2025 22:45:19.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
+[03Feb2025 22:46:05.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-789, y=82, z=-264} BlockPos{x=-788, y=81, z=-264}
+[03Feb2025 22:46:08.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-777, y=84, z=-263} BlockPos{x=-778, y=85, z=-260}
+[03Feb2025 22:46:09.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-782, y=85, z=-261} BlockPos{x=-781, y=85, z=-259}
+[03Feb2025 22:46:09.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-783, y=85, z=-263} BlockPos{x=-782, y=83, z=-263}
+[03Feb2025 22:46:09.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-783, y=85, z=-263} BlockPos{x=-782, y=83, z=-263}
+[03Feb2025 22:46:28.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-817, y=78, z=-257} BlockPos{x=-817, y=78, z=-259}
+[03Feb2025 22:46:29.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-817, y=78, z=-257} BlockPos{x=-817, y=78, z=-259}
+[03Feb2025 22:46:29.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-819, y=77, z=-258} BlockPos{x=-818, y=76, z=-257}
+[03Feb2025 22:46:43.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
+[03Feb2025 22:47:18.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2456, y=84, z=440} BlockPos{x=-2455, y=83, z=440}
+[03Feb2025 22:48:51.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lucie'/109961, l='ServerLevel[world]', x=-2612.50, y=64.31, z=-358.50] died, message: 'Lucie drowned'
+[03Feb2025 22:48:51.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lucie'/109961, l='ServerLevel[world]', x=-2612.50, y=64.31, z=-358.50] died: Lucie drowned
+[03Feb2025 22:50:17.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [A Seedy Place]

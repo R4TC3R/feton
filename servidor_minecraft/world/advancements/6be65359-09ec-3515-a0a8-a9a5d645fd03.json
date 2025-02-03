@@ -1550,6 +1550,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-02-03 22:41:36 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/vintorez": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
@@ -4376,6 +4382,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-03 22:50:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-02-02 21:27:56 +0000"
@@ -4645,6 +4657,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-02-02 23:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-03 22:41:36 +0000"
     },
     "done": true
   },
