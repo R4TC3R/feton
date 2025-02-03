@@ -1195,6 +1195,12 @@
     },
     "done": true
   },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-03 21:58:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-03 05:50:27 +0000"

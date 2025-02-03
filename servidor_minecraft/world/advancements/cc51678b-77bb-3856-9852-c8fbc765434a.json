@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-02-02 21:29:15 +0000"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-03 21:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-02-02 21:27:51 +0000"
@@ -188,6 +200,12 @@
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
     },
     "done": true
   },
@@ -554,6 +572,12 @@
   "createdeco:recipes/createdeco.metals/copper_hull": {
     "criteria": {
       "has_item": "2025-02-03 05:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
     },
     "done": true
   },
@@ -1705,6 +1729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-02-02 21:27:44 +0000"
@@ -2387,6 +2417,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "fletchingtable": "2025-02-03 21:44:51 +0000",
+      "grindstone": "2025-02-03 21:53:51 +0000",
       "gardeningtable": "2025-02-03 04:34:10 +0000",
       "blastfurnace": "2025-02-03 00:13:35 +0000",
       "cauldron": "2025-02-03 05:08:13 +0000",
@@ -2520,6 +2551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-02-02 21:27:44 +0000"
@@ -2613,6 +2650,12 @@
   "connectedglass:recipes/connectedglass/borderless_glass_light_gray_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-03 05:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
     },
     "done": true
   },
@@ -3348,6 +3391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-02 21:27:51 +0000"
@@ -3679,6 +3728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-02 23:56:44 +0000"
@@ -3774,6 +3829,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-02-03 04:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-03 21:52:24 +0000"
     },
     "done": true
   },
@@ -4371,6 +4432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-02-02 21:27:51 +0000"
@@ -4557,6 +4624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-02-03 05:16:32 +0000"
@@ -4625,6 +4698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-02-02 21:32:12 +0000"
@@ -4676,6 +4755,12 @@
   "additionalguns:recipes/additionalguns/casing_medium": {
     "criteria": {
       "has_iron_nugget": "2025-02-03 05:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-03 21:53:48 +0000"
     },
     "done": true
   },
@@ -4948,6 +5033,12 @@
   "ae2:recipes/ae2.main/network/cables/dense_covered_light_gray": {
     "criteria": {
       "has_dyes/black": "2025-02-03 05:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-02-03 21:52:18 +0000"
     },
     "done": true
   },
@@ -5234,6 +5325,12 @@
   "ae2:recipes/ae2.main/decorative/quartz_glass": {
     "criteria": {
       "has_quartz_dust": "2025-02-03 04:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-03 21:52:18 +0000"
     },
     "done": true
   },
@@ -5612,6 +5709,12 @@
   "ae2:recipes/ae2.main/network/parts/quartz_fiber_part": {
     "criteria": {
       "has_dusts/quartz": "2025-02-03 04:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-03 21:52:18 +0000"
     },
     "done": true
   },
@@ -6191,6 +6294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-02-02 23:56:43 +0000"
@@ -6266,6 +6375,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-03 04:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-02-03 21:52:18 +0000"
     },
     "done": true
   },

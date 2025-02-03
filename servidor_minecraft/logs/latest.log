@@ -1332,3 +1332,25 @@ java.lang.Throwable: null
 [03Feb2025 21:47:14.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Georges'/31217, l='ServerLevel[world]', x=-2611.50, y=64.00, z=-354.50] died, message: 'Georges suffocated in a wall'
 [03Feb2025 21:47:59.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
 [03Feb2025 21:51:11.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4198ms or 83 ticks behind
+[03Feb2025 21:51:40.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4532ms or 90 ticks behind
+[03Feb2025 21:51:58.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
+[03Feb2025 21:52:29.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4408ms or 88 ticks behind
+[03Feb2025 21:54:12.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[03Feb2025 21:56:08.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Joan'/63555, l='ServerLevel[world]', x=-2612.50, y=64.00, z=-358.50] died, message: 'Joan suffocated in a wall'
+[03Feb2025 21:57:37.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03Feb2025 21:58:02.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4497ms or 89 ticks behind
+[03Feb2025 21:58:34.537] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4332e29c
+[03Feb2025 21:58:34.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:35043] logged in with entity id 80820 at (-1509.6614712404785, 115.0, -104.17564678638318)
+[03Feb2025 21:58:34.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
+[03Feb2025 21:59:04.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Timed out
+[03Feb2025 21:59:04.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[03Feb2025 21:59:04.667] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Feb2025 21:59:39.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4298ms or 85 ticks behind
+[03Feb2025 21:59:39.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COsito moved too quickly! -9.644226946512845,-2.111215913906136,-2.930231195636395
+[03Feb2025 21:59:46.334] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@467a6c40
+[03Feb2025 21:59:46.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:50223] logged in with entity id 81523 at (-1509.6614712404785, 115.0, -104.17564678638318)
+[03Feb2025 21:59:46.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
+[03Feb2025 22:00:03.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Laurence'/81520, l='ServerLevel[world]', x=-2612.50, y=64.00, z=-358.50] died, message: 'Laurence suffocated in a wall'
+[03Feb2025 22:00:03.628] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Emanuel'/81521, l='ServerLevel[world]', x=-2612.50, y=64.00, z=-358.50] died, message: 'Emanuel suffocated in a wall'
+[03Feb2025 22:00:03.629] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Angélique'/81522, l='ServerLevel[world]', x=-2612.50, y=64.00, z=-358.50] died, message: 'Angélique suffocated in a wall'
+[03Feb2025 22:00:11.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has reached the goal [Fortuitous Militia]

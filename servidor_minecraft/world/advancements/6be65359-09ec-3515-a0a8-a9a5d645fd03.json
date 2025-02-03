@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-03 21:51:11 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_heavy": {
     "criteria": {
       "has_gunpowder": "2025-02-03 04:42:25 +0000"
@@ -4051,6 +4057,12 @@
   "cgm:recipes/cgm/assault_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "pylons:recipes/pylons/infusion_pylon": {
+    "criteria": {
+      "has_emerald_block": "2025-02-03 21:51:11 +0000"
     },
     "done": true
   },
