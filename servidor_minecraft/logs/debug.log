@@ -13620,3 +13620,57 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [03Feb2025 21:13:02.681] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@64814d55, c=net.minecraft.world.inventory.ChestMenu@3d7f8a23, b=0, e=53}
 [03Feb2025 21:17:21.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Feb2025 21:17:21.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 21:22:20.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 21:22:20.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 21:24:08.741] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[03Feb2025 21:24:08.742] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@591e2555, b=54, e=80}, net.minecraft.world.CompoundContainer@14ebbf74=InventoryMapping{i=net.minecraft.world.CompoundContainer@14ebbf74, c=net.minecraft.world.inventory.ChestMenu@591e2555, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@591e2555, b=81, e=89}}
+[03Feb2025 21:24:08.742] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@14ebbf74, c=net.minecraft.world.inventory.ChestMenu@591e2555, b=0, e=53}
+[03Feb2025 21:24:14.430] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/PlayerInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[03Feb2025 21:24:14.431] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/RangedWrapper (target of net/minecraftforge/items/IItemHandler)
+[03Feb2025 21:24:14.431] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/PlayerArmorInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[03Feb2025 21:24:14.432] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/PlayerOffhandInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[03Feb2025 21:24:14.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R fell out of the world
+[03Feb2025 21:24:14.443] [Server thread/DEBUG] [tombstone/]: A new grave of the player R4TC3R was created at position [x:-2451, y:84, z:428, dim:minecraft:overworld]
+[03Feb2025 21:24:14.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Killed R4TC3R]
+[03Feb2025 21:24:14.449] [Server thread/INFO] [tombstone/]: The player R4TC3R has successfully been saved
+[03Feb2025 21:24:15.722] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:70) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:145) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:25) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[03Feb2025 21:24:15.962] [Server thread/DEBUG] [twilightforest/]: Player R4TC3R (6be65359-09ec-3515-a0a8-a9a5d645fd03) respawned and received items held in storage
+[03Feb2025 21:24:15.967] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2e9af78e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[03Feb2025 21:24:15.969] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3b0baf42 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[03Feb2025 21:24:20.610] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming appeng/helpers/externalstorage/GenericStackItemStorage (target of net/minecraftforge/items/IItemHandler)
+[03Feb2025 21:24:26.190] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 87
+[03Feb2025 21:24:26.190] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@21e8bd17, b=108, e=134}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@21e8bd17, b=0, e=107}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@21e8bd17, b=135, e=143}}
+[03Feb2025 21:24:26.190] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@21e8bd17, b=0, e=107}
+[03Feb2025 21:24:28.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> donde estras?
+[03Feb2025 21:24:36.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <R4TC3R> en mi base
+[03Feb2025 21:24:44.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <R4TC3R> ds?
+[03Feb2025 21:24:47.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> y como te caiste al vacio?
+[03Feb2025 21:24:57.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <R4TC3R> no use el /kill
+[03Feb2025 21:24:57.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> ddale
+[03Feb2025 21:25:10.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> ds
+[03Feb2025 21:27:00.907] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hirono'/10989, l='ServerLevel[world]', x=-2459.50, y=84.00, z=427.50] died, message: 'Hirono was slain by R4TC3R using [LA FILOSA]'
+[03Feb2025 21:27:20.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ryo'/10967, l='ServerLevel[world]', x=-2451.40, y=84.00, z=422.84] died, message: 'Ryo was slain by R4TC3R using [LA FILOSA]'
+[03Feb2025 21:27:20.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Feb2025 21:27:20.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Feb2025 21:28:06.525] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 31
+[03Feb2025 21:28:06.525] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@18422d90=InventoryMapping{i=net.minecraft.world.CompoundContainer@18422d90, c=net.minecraft.world.inventory.ChestMenu@2bf78298, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2bf78298, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2bf78298, b=81, e=89}}
+[03Feb2025 21:28:06.525] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@18422d90, c=net.minecraft.world.inventory.ChestMenu@2bf78298, b=0, e=53}

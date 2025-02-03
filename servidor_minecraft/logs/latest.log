@@ -1246,3 +1246,37 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [03Feb2025 21:10:41.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COsito[/127.126.121.69:38095] logged in with entity id 3068 at (-2605.54702818642, 67.0, -347.4430249468157)
 [03Feb2025 21:10:41.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito joined the game
 [03Feb2025 21:10:43.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[03Feb2025 21:24:14.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R fell out of the world
+[03Feb2025 21:24:14.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Killed R4TC3R]
+[03Feb2025 21:24:14.449] [Server thread/INFO] [tombstone/]: The player R4TC3R has successfully been saved
+[03Feb2025 21:24:15.722] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:70) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:145) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:25) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[03Feb2025 21:24:15.967] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@2e9af78e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[03Feb2025 21:24:15.969] [Netty Epoll Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3b0baf42 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[03Feb2025 21:24:28.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> donde estras?
+[03Feb2025 21:24:36.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <R4TC3R> en mi base
+[03Feb2025 21:24:44.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <R4TC3R> ds?
+[03Feb2025 21:24:47.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> y como te caiste al vacio?
+[03Feb2025 21:24:57.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <R4TC3R> no use el /kill
+[03Feb2025 21:24:57.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> ddale
+[03Feb2025 21:25:10.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> ds
+[03Feb2025 21:27:00.907] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hirono'/10989, l='ServerLevel[world]', x=-2459.50, y=84.00, z=427.50] died, message: 'Hirono was slain by R4TC3R using [LA FILOSA]'
+[03Feb2025 21:27:20.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ryo'/10967, l='ServerLevel[world]', x=-2451.40, y=84.00, z=422.84] died, message: 'Ryo was slain by R4TC3R using [LA FILOSA]'
