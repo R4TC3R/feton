@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-02-02 22:46:16 +0000"
@@ -206,6 +212,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-02-02 23:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
     },
     "done": true
   },
@@ -461,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-03 07:00:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-03 00:03:32 +0000"
@@ -611,6 +629,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-03 07:05:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-03 04:26:23 +0000"
@@ -692,6 +716,12 @@
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-02-02 23:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-03 07:00:56 +0000"
     },
     "done": true
   },
@@ -1225,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/tombstone2": {
     "criteria": {
       "has_coble": "2025-02-02 21:31:06 +0000"
@@ -1724,6 +1760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
@@ -1811,6 +1853,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-02-03 07:04:37 +0000"
     },
     "done": true
   },
@@ -2159,6 +2207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ssg08": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
@@ -2336,6 +2390,12 @@
   "cgm:recipes/cgm/shotgun": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
     },
     "done": true
   },
@@ -2759,6 +2819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-03 07:03:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-02 08:51:11 +0000"
@@ -2831,6 +2897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-03 07:05:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-02-02 22:10:06 +0000"
@@ -2873,6 +2945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 22:45:47 +0000"
@@ -2900,6 +2978,12 @@
   "connectedglass:recipes/connectedglass/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-02-03 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
     },
     "done": true
   },
@@ -3032,6 +3116,7 @@
       "old_growth_woodland": "2025-02-02 08:50:55 +0000",
       "mediterranean_forest": "2025-02-02 22:51:32 +0000",
       "spider_nest": "2025-02-02 21:59:43 +0000",
+      "volcano": "2025-02-03 06:59:51 +0000",
       "rocky_rainforest": "2025-02-02 21:59:12 +0000",
       "rainforest": "2025-02-02 22:24:32 +0000"
     },
@@ -3267,6 +3352,12 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-02-02 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
     },
     "done": true
   },
@@ -3654,6 +3745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-03 04:33:12 +0000"
@@ -3696,9 +3793,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-02-02 22:01:36 +0000",
+      "minecraft:wooded_badlands": "2025-02-03 06:59:37 +0000",
       "minecraft:beach": "2025-02-02 22:19:46 +0000",
       "minecraft:sparse_jungle": "2025-02-02 22:19:56 +0000",
       "minecraft:lukewarm_ocean": "2025-02-02 22:25:02 +0000",
@@ -3707,6 +3811,7 @@
       "minecraft:dripstone_caves": "2025-02-02 21:33:31 +0000",
       "minecraft:swamp": "2025-02-02 07:21:44 +0000",
       "minecraft:forest": "2025-02-02 22:19:13 +0000",
+      "minecraft:lush_caves": "2025-02-03 07:00:52 +0000",
       "minecraft:jungle": "2025-02-02 07:22:12 +0000",
       "minecraft:windswept_savanna": "2025-02-02 22:16:15 +0000",
       "minecraft:warm_ocean": "2025-02-02 23:54:01 +0000",
@@ -3925,6 +4030,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-02 21:31:06 +0000"
@@ -4078,6 +4195,12 @@
       "cooked_beef": "2025-02-02 22:08:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
   },
   "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
@@ -4739,6 +4862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ots_03": {
     "criteria": {
       "has_gray_wool": "2025-02-02 22:01:57 +0000"
@@ -4754,6 +4883,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/upgrade_base": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-03 07:04:37 +0000"
     },
     "done": true
   },
@@ -4928,6 +5063,12 @@
   "chiselsandbits:recipes/chiselsandbits/magnifying_glass": {
     "criteria": {
       "has_s": "2025-02-02 20:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-03 07:00:56 +0000"
     },
     "done": true
   },
