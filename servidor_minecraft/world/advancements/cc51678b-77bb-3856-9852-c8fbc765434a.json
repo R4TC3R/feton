@@ -2557,6 +2557,12 @@
     },
     "done": true
   },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-02-03 22:29:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-02-02 21:34:49 +0000"
@@ -4014,7 +4020,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-03 22:34:15 +0000",
       "minecraft:skeleton": "2025-02-03 04:12:19 +0000",
+      "minecraft:vindicator": "2025-02-03 22:32:42 +0000",
       "minecraft:spider": "2025-02-02 21:28:54 +0000",
       "minecraft:creeper": "2025-02-02 21:51:01 +0000",
       "minecraft:slime": "2025-02-02 21:32:02 +0000",
@@ -5185,6 +5193,8 @@
       "cooked_porkchop": "2025-02-02 23:22:52 +0000",
       "cooked_mutton": "2025-02-02 21:34:16 +0000",
       "cooked_beef": "2025-02-02 23:09:42 +0000",
+      "porkchop": "2025-02-03 22:33:26 +0000",
+      "mutton": "2025-02-03 22:35:31 +0000",
       "bread": "2025-02-02 23:17:50 +0000",
       "carrot": "2025-02-03 00:03:49 +0000"
     },
@@ -5259,6 +5269,12 @@
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2025-02-02 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 22:33:36 +0000"
     },
     "done": true
   },

@@ -1372,3 +1372,5 @@ java.lang.Throwable: null
 [03Feb2025 22:14:16.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Youko'/90994, l='ServerLevel[world]', x=-2451.71, y=84.00, z=421.87] died, message: 'Youko was slain by R4TC3R using [LA FILOSA]'
 [03Feb2025 22:15:14.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ronald'/89683, l='ServerLevel[world]', x=-2612.50, y=64.00, z=-358.50] died, message: 'Ronald suffocated in a wall'
 [03Feb2025 22:29:00.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has completed the challenge [Hunted]
+[03Feb2025 22:33:36.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has reached the goal [Fortuitous Militia]
+[03Feb2025 22:42:38.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [Cover Me with Diamonds]
