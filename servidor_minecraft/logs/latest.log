@@ -1100,3 +1100,10 @@ java.lang.Throwable: null
 [03Feb2025 05:35:07.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vicky'/66167, l='ServerLevel[world]', x=-2603.50, y=64.71, z=-346.05] died: Vicky was slain by COsito
 [03Feb2025 05:36:15.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COsito lost connection: Disconnected
 [03Feb2025 05:36:15.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito left the game
+[03Feb2025 05:44:29.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has reached the goal [Strong or Careful]
+[03Feb2025 05:44:29.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro tried to swim in lava
+[03Feb2025 05:44:29.410] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
+[03Feb2025 05:44:50.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=542, y=70, z=-407} too far away from player BlockPos{x=95, y=51, z=-11}.
+[03Feb2025 05:44:50.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=543, y=71, z=-407} too far away from player BlockPos{x=95, y=51, z=-11}.
+[03Feb2025 05:44:50.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=543, y=71, z=-407} too far away from player BlockPos{x=95, y=51, z=-11}.
+[03Feb2025 05:44:53.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has reached the goal [Discreet Search]
