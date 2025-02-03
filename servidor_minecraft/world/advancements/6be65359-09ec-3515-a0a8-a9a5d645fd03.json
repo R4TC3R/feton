@@ -607,6 +607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-03 03:48:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-02-02 20:42:10 +0000"
@@ -759,7 +765,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-03 03:54:06 +0000",
       "minecraft:skeleton": "2025-02-02 22:16:42 +0000",
+      "minecraft:vindicator": "2025-02-03 03:53:54 +0000",
       "minecraft:spider": "2025-02-03 00:15:50 +0000",
       "minecraft:husk": "2025-02-03 01:01:19 +0000",
       "minecraft:zombie": "2025-02-02 22:16:02 +0000"
@@ -847,6 +855,12 @@
   "cgm:recipes/cgm/tactical_stock": {
     "criteria": {
       "has_gray_wool": "2025-02-02 22:01:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/brewing/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-02-03 04:00:29 +0000"
     },
     "done": true
   },
@@ -1870,6 +1884,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 03:53:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-02-02 21:47:45 +0000"
@@ -2844,6 +2864,12 @@
   "additionalguns:recipes/additionalguns/mp7a2": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-02-03 03:53:37 +0000"
     },
     "done": true
   },

@@ -896,6 +896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-03 03:42:04 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m1911": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:22 +0000"
@@ -1529,6 +1535,12 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-02-02 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-03 03:42:04 +0000"
     },
     "done": true
   },
@@ -2198,6 +2210,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_wool": "2025-02-03 03:42:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/tombstone2": {
     "criteria": {
       "has_coble": "2025-02-02 22:02:23 +0000"
@@ -2750,6 +2768,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-02 22:55:21 +0000",
       "cooked_mutton": "2025-02-02 22:55:17 +0000",
+      "cooked_beef": "2025-02-03 03:57:16 +0000",
       "porkchop": "2025-02-03 01:15:15 +0000",
       "apple": "2025-02-02 22:36:23 +0000",
       "potato": "2025-02-02 22:16:25 +0000",
@@ -3855,6 +3874,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-02-03 00:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-03 03:42:04 +0000"
     },
     "done": true
   },

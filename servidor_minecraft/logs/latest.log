@@ -759,3 +759,37 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [03Feb2025 03:38:31.866] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [03Feb2025 03:42:04.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R4TC3R moved too quickly! 7.492989172461421,1.1661092609382138,6.877129529586625
 [03Feb2025 03:42:04.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
+[03Feb2025 03:45:30.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COsito lost connection: Disconnected
+[03Feb2025 03:45:30.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito left the game
+[03Feb2025 03:45:31.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Disconnected
+[03Feb2025 03:45:31.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[03Feb2025 03:45:32.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03Feb2025 03:46:24.803] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ad208d7
+[03Feb2025 03:46:24.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COsito[/127.126.121.69:51215] logged in with entity id 9245 at (-2554.2089948635667, 80.0, -431.41702818843305)
+[03Feb2025 03:46:24.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito joined the game
+[03Feb2025 03:48:21.348] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@357bddb[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:35319): Took too long to log in
+[03Feb2025 03:48:21.348] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@357bddb[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:35319) lost connection: Took too long to log in
+[03Feb2025 03:48:21.400] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Feb2025 03:51:59.958] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c99f10c
+[03Feb2025 03:51:59.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:55225] logged in with entity id 12383 at (632.3000000119209, -15.0, -419.22815944981454)
+[03Feb2025 03:51:59.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
+[03Feb2025 03:53:37.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has completed the challenge [Hunted]
+[03Feb2025 03:53:54.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [Ambush]
+[03Feb2025 04:00:40.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/531, l='ServerLevel[world]', x=-2445.52, y=84.00, z=423.52] died, message: 'Weaponsmith was slain by Zombie'
+[03Feb2025 04:03:13.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COsito lost connection: Kicked by an operator
+[03Feb2025 04:03:13.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito left the game
+[03Feb2025 04:03:13.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Kicked COsito: Kicked by an operator]
+[03Feb2025 04:03:13.411] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Feb2025 04:03:16.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Kicked Saekro: Kicked by an operator]
+[03Feb2025 04:03:16.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Kicked by an operator
+[03Feb2025 04:03:16.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[03Feb2025 04:03:29.250] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@48999154
+[03Feb2025 04:03:29.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:50975] logged in with entity id 18448 at (633.2439177562283, -15.0, -417.6514781902458)
+[03Feb2025 04:03:29.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
+[03Feb2025 04:03:42.485] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16274079
+[03Feb2025 04:03:42.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COsito[/127.126.121.69:33923] logged in with entity id 18730 at (-2492.920829498211, -3.3439922412570477, -413.8021903666055)
+[03Feb2025 04:03:42.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito joined the game
+[03Feb2025 04:03:44.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[03Feb2025 04:03:58.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has made the advancement [Ice Bucket Challenge]
+[03Feb2025 04:05:05.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [Ashes 'n Bones]
+[03Feb2025 04:06:09.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [Magic Writing]
