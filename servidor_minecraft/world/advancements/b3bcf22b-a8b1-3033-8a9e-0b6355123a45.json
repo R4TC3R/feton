@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/impregnated_bone_needle": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 05:59:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-02 22:10:58 +0000"
@@ -3377,6 +3383,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2025-02-04 05:57:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-02 22:13:10 +0000"
@@ -5571,6 +5583,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/trade_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 05:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-02-02 22:46:01 +0000"
@@ -5682,6 +5700,12 @@
   "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-02-04 04:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutgraveyard": {
+    "criteria": {
+      "has_items": "2025-02-04 05:59:08 +0000"
     },
     "done": true
   },

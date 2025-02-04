@@ -1588,3 +1588,7 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 05:45:36.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [04Feb2025 05:45:55.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
 [04Feb2025 05:46:13.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
+[04Feb2025 05:55:13.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[04Feb2025 05:56:19.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has reached the goal [Bargaining with Death]
+[04Feb2025 05:59:51.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [Essence Gathering]
+[04Feb2025 06:01:54.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [Quickly Applied]
