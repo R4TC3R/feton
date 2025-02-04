@@ -14344,3 +14344,14 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 03:46:49.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Feb2025 03:46:49.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Feb2025 03:47:04.685] [Server thread/DEBUG] [twilightforest/]: Player delsin20 (a269f9cf-0eb9-3994-a681-5d0307493d3e) respawned and received items held in storage
+[04Feb2025 03:51:49.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:51:49.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:52:12.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/6127, l='ServerLevel[world]', x=-2624.64, y=70.02, z=-357.34] died, message: 'Forester was eliminated by COsito'
+[04Feb2025 03:52:43.554] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alexander'/6131, l='ServerLevel[world]', x=-2608.67, y=64.00, z=-373.32] died, message: 'Alexander was slain by COsito'
+[04Feb2025 03:52:43.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Alexander'/6131, l='ServerLevel[world]', x=-2608.67, y=64.00, z=-373.32] died: Alexander was slain by COsito
+[04Feb2025 03:54:59.040] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Carol'/19987, l='ServerLevel[world]', x=-2598.21, y=65.00, z=-359.36] died, message: 'Carol was slain by COsito'
+[04Feb2025 03:55:38.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rogér'/22167, l='ServerLevel[world]', x=-2610.70, y=63.00, z=-363.01] died, message: 'Rogér was slain by COsito'
+[04Feb2025 03:56:49.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 03:56:49.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 03:58:46.196] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tamara'/24500, l='ServerLevel[world]', x=-2607.40, y=64.00, z=-355.79] died, message: 'Tamara was slain by COsito'
+[04Feb2025 03:59:29.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=63, z=-375} BlockPos{x=204, y=64, z=-375}
