@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-02-04 04:04:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 00:41:40 +0000"
@@ -410,7 +416,8 @@
       "old_growth_woodland": "2025-02-04 01:33:14 +0000",
       "mediterranean_forest": "2025-02-04 01:08:54 +0000",
       "spider_nest": "2025-02-04 00:36:42 +0000",
-      "dryland": "2025-02-04 03:56:39 +0000"
+      "dryland": "2025-02-04 03:56:39 +0000",
+      "lush_desert": "2025-02-04 03:57:15 +0000"
     },
     "done": false
   },
@@ -1065,14 +1072,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-02-04 04:03:19 +0000",
       "minecraft:beach": "2025-02-04 01:23:14 +0000",
+      "minecraft:sparse_jungle": "2025-02-04 04:03:51 +0000",
       "minecraft:lukewarm_ocean": "2025-02-04 01:14:45 +0000",
       "minecraft:river": "2025-02-04 01:21:08 +0000",
+      "minecraft:stony_shore": "2025-02-04 04:04:58 +0000",
       "minecraft:swamp": "2025-02-04 00:21:16 +0000",
       "minecraft:forest": "2025-02-04 01:20:36 +0000",
       "minecraft:desert": "2025-02-04 00:31:22 +0000",
       "minecraft:jungle": "2025-02-04 00:29:34 +0000",
-      "minecraft:savanna": "2025-02-04 01:20:46 +0000"
+      "minecraft:deep_lukewarm_ocean": "2025-02-04 04:06:37 +0000",
+      "minecraft:savanna": "2025-02-04 01:20:46 +0000",
+      "minecraft:plains": "2025-02-04 03:59:33 +0000"
     },
     "done": false
   },
@@ -2110,6 +2122,12 @@
   "additionalguns:recipes/additionalguns/mp7a2": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 00:41:40 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-02-04 04:04:26 +0000"
     },
     "done": true
   },

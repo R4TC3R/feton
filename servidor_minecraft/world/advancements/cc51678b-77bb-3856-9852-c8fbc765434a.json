@@ -2957,6 +2957,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/genocide": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 04:02:20 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-02-02 21:26:05 +0000"

@@ -14355,3 +14355,25 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 03:56:49.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Feb2025 03:58:46.196] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tamara'/24500, l='ServerLevel[world]', x=-2607.40, y=64.00, z=-355.79] died, message: 'Tamara was slain by COsito'
 [04Feb2025 03:59:29.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=63, z=-375} BlockPos{x=204, y=64, z=-375}
+[04Feb2025 04:01:40.601] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraft/world/inventory/ItemCombinerMenu$1 (target of net/minecraft/world/Container)
+[04Feb2025 04:01:49.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 04:01:50.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 04:02:15.949] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Christiaan'/29898, l='ServerLevel[world]', x=-2581.06, y=68.00, z=-359.63] died, message: 'Christiaan was slain by COsito'
+[04Feb2025 04:02:20.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jérémy'/30015, l='ServerLevel[world]', x=-2581.35, y=68.00, z=-359.67] died, message: 'Jérémy was slain by COsito'
+[04Feb2025 04:02:20.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has completed the challenge [Genocide]
+[04Feb2025 04:02:32.645] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/VanillaHopperItemHandler (target of net/minecraftforge/items/IItemHandler)
+[04Feb2025 04:02:40.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Betty'/30384, l='ServerLevel[world]', x=-2581.61, y=68.00, z=-359.61] died, message: 'Betty was slain by COsito'
+[04Feb2025 04:02:46.244] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.24 and blood value 0 for entity minecraft:axolotl
+[04Feb2025 04:03:29.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Conny'/30541, l='ServerLevel[world]', x=-2581.73, y=68.00, z=-359.73] died, message: 'Conny was slain by COsito'
+[04Feb2025 04:04:09.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=280, y=64, z=-382} BlockPos{x=280, y=62, z=-381}
+[04Feb2025 04:04:26.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has completed the challenge [Hunted]
+[04Feb2025 04:04:57.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Blood Feeders' Home]
+[04Feb2025 04:05:25.846] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Annemarie'/31605, l='ServerLevel[world]', x=-2581.05, y=68.00, z=-358.42] died, message: 'Annemarie was slain by COsito'
+[04Feb2025 04:06:19.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kristina'/33974, l='ServerLevel[world]', x=-2581.61, y=68.00, z=-358.39] died, message: 'Kristina was slain by COsito'
+[04Feb2025 04:06:34.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Morgan'/35023, l='ServerLevel[world]', x=-2580.30, y=68.00, z=-358.35] died, message: 'Morgan was slain by COsito'
+[04Feb2025 04:06:49.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 04:06:49.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 04:06:53.588] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Danny'/35305, l='ServerLevel[world]', x=-2581.42, y=68.00, z=-358.90] died, message: 'Danny was slain by COsito'
+[04Feb2025 04:07:00.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Pieter'/35494, l='ServerLevel[world]', x=-2581.70, y=68.00, z=-358.30] died, message: 'Pieter was slain by COsito'
+[04Feb2025 04:07:35.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sanne'/35642, l='ServerLevel[world]', x=-2581.47, y=68.00, z=-358.35] died, message: 'Sanne was slain by COsito'
+[04Feb2025 04:08:51.736] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Damien'/26922, l='ServerLevel[world]', x=-2600.82, y=64.00, z=-354.30] died, message: 'Damien was slain by COsito'
