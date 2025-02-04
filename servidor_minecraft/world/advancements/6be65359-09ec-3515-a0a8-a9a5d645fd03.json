@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_magenta_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-04 06:03:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-03 04:33:12 +0000"
@@ -805,6 +811,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_magenta2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-04 06:03:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-02-03 04:24:24 +0000"
@@ -922,6 +934,12 @@
   "vampirism:recipes/vampirism/vampire/garlic_finder": {
     "criteria": {
       "has_redstone": "2025-02-03 04:25:56 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/magenta_placard": {
+    "criteria": {
+      "has_dye": "2025-02-04 06:03:21 +0000"
     },
     "done": true
   },
@@ -1144,6 +1162,12 @@
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2025-02-03 07:22:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-02-04 06:03:21 +0000"
     },
     "done": true
   },
@@ -2315,6 +2339,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_magenta2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-04 06:03:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-02-02 07:23:09 +0000"
@@ -2540,6 +2570,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-03 21:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-04 06:03:21 +0000"
     },
     "done": true
   },
@@ -2784,6 +2820,12 @@
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_magenta_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-04 06:03:21 +0000"
     },
     "done": true
   },
@@ -3279,6 +3321,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-04 06:03:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-02-04 01:04:44 +0000"
@@ -3483,6 +3531,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-04 06:03:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:33:13 +0000"
@@ -3684,6 +3738,12 @@
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2025-02-03 23:10:53 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass_magenta_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-02-04 06:03:21 +0000"
     },
     "done": true
   },
@@ -4688,6 +4748,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/magenta_decal": {
+    "criteria": {
+      "has_dye": "2025-02-04 06:03:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-02 21:34:59 +0000"
@@ -5384,6 +5450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-02-04 06:03:21 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-02-02 21:27:11 +0000"
@@ -5462,6 +5534,12 @@
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-03 07:04:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-02-04 06:03:21 +0000"
     },
     "done": true
   },
@@ -5570,6 +5648,12 @@
   "connectedglass:recipes/connectedglass/clear_glass_red_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-03 07:15:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-02-04 06:03:21 +0000"
     },
     "done": true
   },
@@ -6206,6 +6290,12 @@
   "additionalguns:recipes/additionalguns/p250": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_magenta": {
+    "criteria": {
+      "has_dyes/black": "2025-02-04 06:03:21 +0000"
     },
     "done": true
   },

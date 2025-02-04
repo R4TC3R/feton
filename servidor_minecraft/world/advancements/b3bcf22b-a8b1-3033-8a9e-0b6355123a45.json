@@ -2110,6 +2110,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 06:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-02-02 22:00:49 +0000"
@@ -2354,6 +2360,12 @@
   "chiselsandbits:recipes/chiselsandbits/quill": {
     "criteria": {
       "has_tag_c": "2025-02-02 22:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutwarehouse": {
+    "criteria": {
+      "has_items": "2025-02-04 06:03:56 +0000"
     },
     "done": true
   },
@@ -4933,6 +4945,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockstash": {
+    "criteria": {
+      "has_items": "2025-02-04 06:03:56 +0000"
+    },
+    "done": true
+  },
   "ae2:main/root": {
     "criteria": {
       "certus": "2025-02-02 22:11:00 +0000"
@@ -5532,6 +5550,12 @@
   "vampirism:recipes/vampirism/vampire/vampire_clothing_legs": {
     "criteria": {
       "has_wool": "2025-02-04 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockpostbox": {
+    "criteria": {
+      "has_items": "2025-02-04 06:03:56 +0000"
     },
     "done": true
   },
