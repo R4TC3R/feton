@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2025-02-04 23:15:29 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/red_short_bricks_slab_vert_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-02-04 04:16:04 +0000"
@@ -650,6 +656,12 @@
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-03 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:timber": {
+    "criteria": {
+      "tick": "2025-02-04 23:15:29 +0000"
     },
     "done": true
   },
@@ -1848,6 +1860,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-02-02 21:27:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-02-04 23:19:20 +0000"
     },
     "done": true
   },
@@ -4196,6 +4214,12 @@
     },
     "done": true
   },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2025-02-04 23:15:29 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_medium": {
     "criteria": {
       "has_gunpowder": "2025-02-02 21:51:03 +0000"
@@ -4263,6 +4287,12 @@
       "grassland": "2025-02-03 03:51:53 +0000"
     },
     "done": false
+  },
+  "vanillatweaks:chunk_loaders": {
+    "criteria": {
+      "tick": "2025-02-04 23:15:29 +0000"
+    },
+    "done": true
   },
   "vampirism:recipes/vampirism/vampire/blood_infused_iron_ingot": {
     "criteria": {
@@ -5609,6 +5639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-04 23:19:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-03 04:45:17 +0000"
@@ -6704,6 +6740,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest_from_vanilla_chest": {
     "criteria": {
       "has_vanilla_chest": "2025-02-03 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:elevators": {
+    "criteria": {
+      "tick": "2025-02-04 23:15:29 +0000"
     },
     "done": true
   },

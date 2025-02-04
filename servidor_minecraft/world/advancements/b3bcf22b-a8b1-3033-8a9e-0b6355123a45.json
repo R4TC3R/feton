@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2025-02-04 06:24:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-02-02 23:16:50 +0000"
@@ -548,6 +554,12 @@
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-02 22:08:49 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:timber": {
+    "criteria": {
+      "tick": "2025-02-04 06:24:20 +0000"
     },
     "done": true
   },
@@ -3539,6 +3551,12 @@
     },
     "done": true
   },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2025-02-04 23:14:56 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_medium": {
     "criteria": {
       "has_gunpowder": "2025-02-03 00:12:27 +0000"
@@ -3640,6 +3658,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-02-04 04:25:26 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:chunk_loaders": {
+    "criteria": {
+      "tick": "2025-02-04 06:24:20 +0000"
     },
     "done": true
   },
@@ -5868,6 +5892,12 @@
   "create:recipes/create.palettes/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-03 00:19:51 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:elevators": {
+    "criteria": {
+      "tick": "2025-02-04 06:24:20 +0000"
     },
     "done": true
   },

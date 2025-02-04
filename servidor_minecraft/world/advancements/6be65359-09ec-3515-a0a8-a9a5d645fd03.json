@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2025-02-04 06:24:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-02-02 21:34:59 +0000"
@@ -638,6 +644,12 @@
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-04 01:04:44 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:timber": {
+    "criteria": {
+      "tick": "2025-02-04 06:24:35 +0000"
     },
     "done": true
   },
@@ -2597,6 +2609,7 @@
       "lectern": "2025-02-03 05:14:25 +0000",
       "woodworkingtable": "2025-02-02 23:16:48 +0000",
       "stonecutter": "2025-02-03 23:11:10 +0000",
+      "cauldron": "2025-02-04 06:25:03 +0000",
       "composter": "2025-02-03 05:50:22 +0000"
     },
     "done": false
@@ -3993,6 +4006,12 @@
     },
     "done": true
   },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2025-02-04 06:29:40 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_medium": {
     "criteria": {
       "has_gunpowder": "2025-02-03 04:42:25 +0000"
@@ -4067,6 +4086,12 @@
       "rainforest": "2025-02-02 22:24:32 +0000"
     },
     "done": false
+  },
+  "vanillatweaks:chunk_loaders": {
+    "criteria": {
+      "tick": "2025-02-04 06:24:35 +0000"
+    },
+    "done": true
   },
   "vampirism:recipes/vampirism/vampire/blood_infused_iron_ingot": {
     "criteria": {
@@ -4218,6 +4243,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/blood_sieve": {
+    "criteria": {
+      "has_cauldron": "2025-02-04 06:25:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/shepherd_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 06:16:57 +0000"
@@ -4234,7 +4265,8 @@
       "minecraft:witch": "2025-02-03 07:46:55 +0000",
       "minecraft:husk": "2025-02-03 01:01:19 +0000",
       "minecraft:enderman": "2025-02-03 07:47:08 +0000",
-      "minecraft:zombie": "2025-02-02 22:16:02 +0000"
+      "minecraft:zombie": "2025-02-02 22:16:02 +0000",
+      "minecraft:drowned": "2025-02-04 06:47:41 +0000"
     },
     "done": false
   },
@@ -4979,8 +5011,10 @@
       "minecraft:forest": "2025-02-02 22:19:13 +0000",
       "minecraft:lush_caves": "2025-02-03 07:00:52 +0000",
       "minecraft:jungle": "2025-02-02 07:22:12 +0000",
+      "minecraft:ocean": "2025-02-04 06:37:04 +0000",
       "minecraft:windswept_savanna": "2025-02-02 22:16:15 +0000",
       "minecraft:warm_ocean": "2025-02-02 23:54:01 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-04 06:33:13 +0000",
       "minecraft:savanna": "2025-02-02 22:31:49 +0000",
       "minecraft:plains": "2025-02-02 08:50:30 +0000"
     },
@@ -6440,6 +6474,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-03 23:09:36 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:elevators": {
+    "criteria": {
+      "tick": "2025-02-04 06:24:35 +0000"
     },
     "done": true
   },
