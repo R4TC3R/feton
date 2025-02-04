@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-04 03:45:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/item_med_chair": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:21 +0000"
@@ -1313,6 +1319,12 @@
   "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-02-03 05:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-04 03:45:49 +0000"
     },
     "done": true
   },
@@ -2419,6 +2431,12 @@
   "additionalguns:recipes/additionalguns/m4a1s": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-04 03:45:49 +0000"
     },
     "done": true
   },
@@ -4445,6 +4463,12 @@
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2025-02-02 21:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-04 03:45:04 +0000"
     },
     "done": true
   },

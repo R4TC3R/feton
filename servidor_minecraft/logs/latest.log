@@ -820,3 +820,18 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 03:39:26.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 joined the game
 [04Feb2025 03:39:45.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: delsin20 lost connection: Disconnected
 [04Feb2025 03:39:45.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 left the game
+[04Feb2025 03:43:45.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro fell from a high place
+[04Feb2025 03:43:45.359] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
+[04Feb2025 03:43:48.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COsito moved too quickly! 1.7269408148899856,-4.083077817806469,8.999829951440006
+[04Feb2025 03:43:57.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=273, y=36, z=-122}.
+[04Feb2025 03:43:57.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=273, y=36, z=-122}.
+[04Feb2025 03:45:16.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro was burnt to a crisp whilst fighting Ghast
+[04Feb2025 03:45:16.148] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
+[04Feb2025 03:45:16.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro moved wrongly!
+[04Feb2025 03:45:42.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Robbie'/13502, l='ServerLevel[world]', x=-2612.72, y=62.00, z=-363.43] died, message: 'Robbie was slain by COsito'
+[04Feb2025 03:46:33.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jules'/13759, l='ServerLevel[world]', x=-2612.38, y=62.00, z=-364.33] died, message: 'Jules was slain by COsito'
+[04Feb2025 03:46:33.442] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rudy'/6122, l='ServerLevel[world]', x=-2612.28, y=62.00, z=-363.28] died, message: 'Rudy was slain by COsito'
+[04Feb2025 03:46:33.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rudy'/6122, l='ServerLevel[world]', x=-2612.28, y=62.00, z=-363.28] died: Rudy was slain by COsito
+[04Feb2025 03:46:45.945] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4445a558
+[04Feb2025 03:46:45.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: delsin20[/127.34.93.247:49607] logged in with entity id 14382 at (-2602.699999988079, 63.9375, -352.6669304016937)
+[04Feb2025 03:46:45.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 joined the game
