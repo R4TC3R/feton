@@ -573,6 +573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-04 04:45:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest": {
     "criteria": {
       "has_oak_plank": "2025-02-04 00:26:52 +0000"
@@ -660,6 +666,12 @@
   "create:recipes/create.palettes/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-04 00:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-04 04:45:18 +0000"
     },
     "done": true
   },
@@ -1292,6 +1304,12 @@
   "additionalguns:recipes/additionalguns/ravens_claw": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 00:41:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-04 04:45:18 +0000"
     },
     "done": true
   },

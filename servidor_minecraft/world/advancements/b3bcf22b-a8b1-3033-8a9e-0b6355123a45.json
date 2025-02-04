@@ -1,4 +1,10 @@
 {
+  "minecolonies:recipes/minecolonies/colony_banner": {
+    "criteria": {
+      "has_items": "2025-02-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
     "criteria": {
       "has_flower": "2025-02-02 22:00:33 +0000"
@@ -1526,6 +1532,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockminecoloniesrack": {
+    "criteria": {
+      "has_build_tool": "2025-02-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-02-02 22:25:52 +0000"
@@ -1583,6 +1595,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-02-02 22:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutcook": {
+    "criteria": {
+      "has_items": "2025-02-04 04:46:57 +0000"
     },
     "done": true
   },
@@ -1793,6 +1811,12 @@
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-02-02 22:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutuniversity": {
+    "criteria": {
+      "has_items": "2025-02-04 04:46:57 +0000"
     },
     "done": true
   },
@@ -3124,6 +3148,18 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutlibrary": {
+    "criteria": {
+      "has_items": "2025-02-04 04:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/barrel_block": {
+    "criteria": {
+      "has_items": "2025-02-04 04:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-02 22:02:08 +0000"
@@ -3943,6 +3979,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutmysticalsite": {
+    "criteria": {
+      "has_items": "2025-02-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-02-03 05:32:03 +0000"
@@ -4243,6 +4285,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutcrusher": {
+    "criteria": {
+      "has_items": "2025-02-04 04:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-02-02 22:08:43 +0000"
@@ -4417,6 +4465,12 @@
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/clipboard": {
+    "criteria": {
+      "has_build_tool": "2025-02-04 04:46:57 +0000"
     },
     "done": true
   },
@@ -4854,6 +4908,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutsmeltery": {
+    "criteria": {
+      "has_items": "2025-02-04 04:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-02 22:55:21 +0000",
@@ -4867,6 +4927,18 @@
       "rotten_flesh": "2025-02-03 00:46:54 +0000"
     },
     "done": false
+  },
+  "minecolonies:recipes/minecolonies/resourcescroll": {
+    "criteria": {
+      "has_build_tool": "2025-02-04 04:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutcowboy": {
+    "criteria": {
+      "has_items": "2025-02-04 04:46:57 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
@@ -5042,6 +5114,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockwaypoint": {
+    "criteria": {
+      "has_build_tool": "2025-02-04 04:46:57 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/stake": {
     "criteria": {
       "has_sticks": "2025-02-02 22:02:08 +0000"
@@ -5087,6 +5165,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-02-02 22:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutblacksmith": {
+    "criteria": {
+      "has_items": "2025-02-04 04:50:38 +0000"
     },
     "done": true
   },
@@ -5759,6 +5843,12 @@
   "additionalguns:recipes/additionalguns/banshee": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhuttownhall": {
+    "criteria": {
+      "has_items": "2025-02-04 04:46:57 +0000"
     },
     "done": true
   },
