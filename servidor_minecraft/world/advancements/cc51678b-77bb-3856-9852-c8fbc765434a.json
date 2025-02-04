@@ -935,6 +935,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-02-04 00:36:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
@@ -1034,6 +1040,12 @@
   "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-02-03 22:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-04 00:36:07 +0000"
     },
     "done": true
   },
@@ -1295,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-04 00:36:02 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/clear_glass_light_gray_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-03 05:16:47 +0000"
@@ -1462,6 +1480,12 @@
   "securitycraft:recipes/securitycraft/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-02-03 04:07:15 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2025-02-04 00:36:07 +0000"
     },
     "done": true
   },
@@ -1795,6 +1819,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-02-04 00:36:45 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/desert_eagle": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
@@ -1972,6 +2002,12 @@
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-04 00:36:07 +0000"
     },
     "done": true
   },
@@ -2451,6 +2487,7 @@
       "gardeningtable": "2025-02-03 04:34:10 +0000",
       "smithingtable": "2025-02-03 22:47:13 +0000",
       "blastfurnace": "2025-02-03 00:13:35 +0000",
+      "lectern": "2025-02-04 00:37:24 +0000",
       "cauldron": "2025-02-03 05:08:13 +0000",
       "composter": "2025-02-03 04:37:04 +0000"
     },
@@ -2648,6 +2685,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-02-04 00:36:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
@@ -2711,6 +2754,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2025-02-02 23:53:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-02-04 00:36:49 +0000"
     },
     "done": true
   },
@@ -3212,6 +3261,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-02-04 00:36:02 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2025-02-02 23:34:20 +0000"
@@ -3329,6 +3384,12 @@
   "create:recipes/create.base/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-02-03 04:02:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-04 00:36:02 +0000"
     },
     "done": true
   },
@@ -3753,6 +3814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-04 00:36:07 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/clear_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-03 05:16:34 +0000"
@@ -4075,6 +4142,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-04 00:36:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest": {
     "criteria": {
       "has_oak_plank": "2025-02-02 21:28:03 +0000"
@@ -4345,6 +4418,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-04 00:36:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/username_logger": {
     "criteria": {
       "has_redstone": "2025-02-03 04:02:27 +0000"
@@ -4498,6 +4577,12 @@
   "connectedglass:recipes/connectedglass/scratched_glass_yellow_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-03 03:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-04 00:36:02 +0000"
     },
     "done": true
   },
@@ -5036,6 +5121,12 @@
       "has_wit": "2025-02-02 21:26:05 +0000",
       "has_wpt": "2025-02-02 21:26:05 +0000",
       "has_wct": "2025-02-02 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-04 00:36:07 +0000"
     },
     "done": true
   },
@@ -5936,6 +6027,12 @@
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-04 00:36:02 +0000"
     },
     "done": true
   },

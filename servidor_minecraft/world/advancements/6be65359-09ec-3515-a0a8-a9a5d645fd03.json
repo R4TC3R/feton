@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-04 00:33:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-03 07:04:37 +0000"
@@ -4783,6 +4789,12 @@
   "connectedglass:recipes/connectedglass/tinted_borderless_glass_red2": {
     "criteria": {
       "recipe_condition2": "2025-02-03 07:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-04 00:33:25 +0000"
     },
     "done": true
   },
