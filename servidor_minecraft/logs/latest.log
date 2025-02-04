@@ -3986,3 +3986,60 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 05:07:05.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
 [04Feb2025 05:07:35.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Timed out
 [04Feb2025 05:07:35.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[04Feb2025 05:09:03.065] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@382509ec[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:38483): Took too long to log in
+[04Feb2025 05:09:03.067] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@382509ec[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:38483) lost connection: Took too long to log in
+[04Feb2025 05:09:03.116] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Feb2025 05:09:33.166] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@56a051f8[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:39151): Took too long to log in
+[04Feb2025 05:09:33.167] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56a051f8[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:39151) lost connection: Took too long to log in
+[04Feb2025 05:09:33.216] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Feb2025 05:14:01.582] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47351923
+[04Feb2025 05:14:01.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Saekro[/127.230.197.144:52971] logged in with entity id 86562 at (-1452.5212808454705, 40.0, -148.30000001192093)
+[04Feb2025 05:14:01.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro joined the game
+[04Feb2025 05:14:31.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro lost connection: Timed out
+[04Feb2025 05:14:31.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro left the game
+[04Feb2025 05:15:31.966] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5a3b0277[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:57765): Took too long to log in
+[04Feb2025 05:15:31.966] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a3b0277[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:57765) lost connection: Took too long to log in
+[04Feb2025 05:15:32.017] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Feb2025 05:16:01.265] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4125c550[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:45087): Took too long to log in
+[04Feb2025 05:16:01.266] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4125c550[id=<null>,name=Saekro,properties={},legacy=false] (/127.230.197.144:45087) lost connection: Took too long to log in
+[04Feb2025 05:16:01.316] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Feb2025 05:16:05.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R4TC3R lost connection: Disconnected
+[04Feb2025 05:16:05.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R left the game
+[04Feb2025 05:16:18.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[04Feb2025 05:16:18.219] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[04Feb2025 05:16:18.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Feb2025 05:16:18.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Feb2025 05:16:18.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Feb2025 05:16:19.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Feb2025 05:16:19.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:glacio_orbit
+[04Feb2025 05:16:19.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:moon
+[04Feb2025 05:16:19.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:moon_orbit
+[04Feb2025 05:16:19.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mercury_orbit
+[04Feb2025 05:16:19.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Feb2025 05:16:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:venus
+[04Feb2025 05:16:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:earth_orbit
+[04Feb2025 05:16:19.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[04Feb2025 05:16:19.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:venus_orbit
+[04Feb2025 05:16:19.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mars
+[04Feb2025 05:16:19.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[04Feb2025 05:16:19.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Feb2025 05:16:19.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mercury
+[04Feb2025 05:16:19.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:glacio
+[04Feb2025 05:16:19.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/beyond_earth:mars_orbit
+[04Feb2025 05:16:19.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Feb2025 05:16:19.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[04Feb2025 05:16:19.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[04Feb2025 05:16:19.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[04Feb2025 05:16:19.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[04Feb2025 05:16:19.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Feb2025 05:16:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[04Feb2025 05:16:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[04Feb2025 05:16:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[04Feb2025 05:16:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[04Feb2025 05:16:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[04Feb2025 05:16:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[04Feb2025 05:16:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Feb2025 05:16:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[04Feb2025 05:16:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[04Feb2025 05:16:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[04Feb2025 05:16:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
