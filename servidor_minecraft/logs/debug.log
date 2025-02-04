@@ -13943,3 +13943,23 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 00:54:48.719] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
 [04Feb2025 00:54:48.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 1 [Dirt] to Saekro]
 [04Feb2025 00:55:17.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mathijs'/35283, l='ServerLevel[world]', x=-2613.20, y=62.13, z=-364.08] died, message: 'Mathijs was slain by COsito'
+[04Feb2025 00:56:56.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 1 [Dirt] to Saekro]
+[04Feb2025 00:56:58.818] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Myrianne'/36118, l='ServerLevel[world]', x=-2612.84, y=62.00, z=-363.48] died, message: 'Myrianne was slain by COsito'
+[04Feb2025 00:57:11.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 00:57:11.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 00:57:13.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 320 [Fire Seeds] to R4TC3R]
+[04Feb2025 00:58:15.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alice'/37164, l='ServerLevel[world]', x=-2611.59, y=62.00, z=-363.70] died, message: 'Alice was slain by COsito'
+[04Feb2025 00:59:23.432] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ewald'/38182, l='ServerLevel[world]', x=-2611.33, y=62.00, z=-363.56] died, message: 'Ewald was slain by COsito'
+[04Feb2025 01:00:54.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Filip'/18419, l='ServerLevel[world]', x=-2611.70, y=64.00, z=-360.30] died, message: 'Filip was slain by Zombie'
+[04Feb2025 01:00:54.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Filip'/18419, l='ServerLevel[world]', x=-2611.70, y=64.00, z=-360.30] died: Filip was slain by Zombie
+[04Feb2025 01:01:01.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/18423, l='ServerLevel[world]', x=-2611.30, y=64.00, z=-360.30] died, message: 'Armorer was slain by Zombie'
+[04Feb2025 01:01:25.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Removed every effect from R4TC3R]
+[04Feb2025 01:02:11.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 01:02:11.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 01:02:22.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 was shot by Skeleton
+[04Feb2025 01:02:22.429] [Server thread/DEBUG] [tombstone/]: A new grave of the player delsin20 was created at position [x:-205, y:68, z:145, dim:minecraft:overworld]
+[04Feb2025 01:02:22.436] [Server thread/INFO] [tombstone/]: The player delsin20 has successfully been saved
+[04Feb2025 01:02:40.355] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['José'/40253, l='ServerLevel[world]', x=-2611.30, y=62.00, z=-363.30] died, message: 'José was slain by COsito'
+[04Feb2025 01:04:44.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Diane'/42105, l='ServerLevel[world]', x=-2611.30, y=62.00, z=-363.58] died, message: 'Diane was slain by COsito'
+[04Feb2025 01:04:57.180] [Server thread/DEBUG] [twilightforest/]: Player delsin20 (a269f9cf-0eb9-3994-a681-5d0307493d3e) respawned and received items held in storage
+[04Feb2025 01:06:34.135] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Joseph'/39112, l='ServerLevel[world]', x=-2604.34, y=64.00, z=-358.74] died, message: 'Joseph was slain by COsito'
