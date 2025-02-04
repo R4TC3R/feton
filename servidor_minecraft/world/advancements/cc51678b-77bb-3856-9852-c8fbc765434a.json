@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-02-04 00:18:29 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.props/black_decal": {
     "criteria": {
       "has_dye": "2025-02-03 05:16:32 +0000"
@@ -3500,15 +3506,15 @@
     },
     "done": true
   },
-  "morevillagers:first_trade": {
-    "criteria": {
-      "villagertrade": "2025-02-03 21:46:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-03 21:15:24 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-02-03 21:46:07 +0000"
     },
     "done": true
   },
@@ -4273,6 +4279,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-04 00:18:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-03 03:59:18 +0000"
@@ -4318,6 +4330,12 @@
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-02-03 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-04 00:18:28 +0000"
     },
     "done": true
   },
