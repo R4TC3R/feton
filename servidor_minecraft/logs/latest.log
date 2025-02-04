@@ -870,3 +870,6 @@ java.lang.Throwable: null
 [04Feb2025 01:15:10.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Ol' Betsy]
 [04Feb2025 01:17:07.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 burned to death
 [04Feb2025 01:17:07.300] [Server thread/INFO] [tombstone/]: The player delsin20 has successfully been saved
+[04Feb2025 01:18:10.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sandy'/42665, l='ServerLevel[world]', x=-2591.21, y=65.00, z=-348.27] died, message: 'Sandy was slain by COsito'
+[04Feb2025 01:25:01.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 was slain by Saekro
+[04Feb2025 01:25:01.552] [Server thread/INFO] [tombstone/]: The player delsin20 has successfully been saved
