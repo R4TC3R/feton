@@ -18271,3 +18271,17 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 23:42:47.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> meno
 [04Feb2025 23:42:56.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <R4TC3R> para que
 [04Feb2025 23:43:39.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <R4TC3R> se vale responder e
+[04Feb2025 23:43:53.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> estoy haciengro granjita de hierrito
+[04Feb2025 23:44:05.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <R4TC3R> a bueno pero para que necesitas la nochesita
+[04Feb2025 23:44:19.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> para zombies
+[04Feb2025 23:44:22.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <R4TC3R> a
+[04Feb2025 23:44:54.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 23:44:54.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 23:46:07.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [Ol' Betsy]
+[04Feb2025 23:46:13.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [Take Aim]
+[04Feb2025 23:49:39.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> NO DUERMAS NOAH
+[04Feb2025 23:49:48.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <R4TC3R> dale
+[04Feb2025 23:49:54.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 23:49:54.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 23:53:48.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16929, l='ServerLevel[world]', x=-2605.45, y=63.15, z=-344.18] died, message: 'Villager was slain by Zombie'
+[04Feb2025 23:53:55.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11633, l='ServerLevel[world]', x=-2604.15, y=63.17, z=-344.85] died, message: 'Villager was slain by Zombie'

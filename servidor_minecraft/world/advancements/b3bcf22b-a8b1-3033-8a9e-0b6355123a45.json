@@ -2939,6 +2939,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-04 23:46:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-02-02 21:51:21 +0000"
@@ -3848,6 +3854,7 @@
       "minecraft:ghast": "2025-02-04 03:33:15 +0000",
       "minecraft:hoglin": "2025-02-03 05:54:55 +0000",
       "minecraft:vindicator": "2025-02-04 04:38:51 +0000",
+      "minecraft:magma_cube": "2025-02-04 23:45:04 +0000",
       "minecraft:spider": "2025-02-02 21:55:44 +0000",
       "minecraft:creeper": "2025-02-02 23:03:28 +0000",
       "minecraft:zombified_piglin": "2025-02-03 05:07:42 +0000",
@@ -6066,6 +6073,12 @@
   "create_connected:recipes/crafting/kinetics/brake": {
     "criteria": {
       "has_item": "2025-02-02 21:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-04 23:46:07 +0000"
     },
     "done": true
   },
