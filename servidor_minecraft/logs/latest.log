@@ -807,3 +807,18 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 00:43:08.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Suit Up]
 [04Feb2025 00:43:42.404] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gustaaf'/25077, l='ServerLevel[world]', x=-2611.50, y=62.31, z=-363.50] died, message: 'Gustaaf drowned'
 [04Feb2025 00:45:15.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stéphane'/26706, l='ServerLevel[world]', x=-2612.52, y=62.00, z=-363.56] died, message: 'Stéphane was slain by COsito'
+[04Feb2025 00:46:05.474] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lionel'/27628, l='ServerLevel[world]', x=-2612.33, y=62.00, z=-363.85] died, message: 'Lionel was slain by COsito'
+[04Feb2025 00:47:23.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gilberte'/28235, l='ServerLevel[world]', x=-2612.42, y=62.00, z=-363.29] died, message: 'Gilberte was slain by COsito'
+[04Feb2025 00:47:35.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2451, y=84, z=438} BlockPos{x=-2452, y=83, z=438}
+[04Feb2025 00:48:45.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 was slain by Cave Spider
+[04Feb2025 00:48:45.046] [Server thread/INFO] [tombstone/]: The player delsin20 has successfully been saved
+[04Feb2025 00:49:03.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kristel'/29342, l='ServerLevel[world]', x=-2611.62, y=62.00, z=-363.47] died, message: 'Kristel was slain by COsito'
+[04Feb2025 00:50:04.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has reached the goal [Strong or Careful]
+[04Feb2025 00:50:04.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Chrystel
+[04Feb2025 00:50:04.582] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[04Feb2025 00:50:44.169] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Chrystel'/30820, l='ServerLevel[world]', x=-2585.55, y=70.00, z=-377.61] died, message: 'Chrystel was slain by COsito'
+[04Feb2025 00:52:04.473] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Johan'/32795, l='ServerLevel[world]', x=-2612.06, y=62.00, z=-363.65] died, message: 'Johan was slain by COsito'
+[04Feb2025 00:53:02.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marcella'/33608, l='ServerLevel[world]', x=-2612.54, y=62.00, z=-363.42] died, message: 'Marcella was slain by COsito'
+[04Feb2025 00:54:10.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lambertus'/34318, l='ServerLevel[world]', x=-2611.36, y=62.00, z=-363.34] died, message: 'Lambertus was slain by COsito'
+[04Feb2025 00:54:48.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 1 [Dirt] to Saekro]
+[04Feb2025 00:55:17.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mathijs'/35283, l='ServerLevel[world]', x=-2613.20, y=62.13, z=-364.08] died, message: 'Mathijs was slain by COsito'
