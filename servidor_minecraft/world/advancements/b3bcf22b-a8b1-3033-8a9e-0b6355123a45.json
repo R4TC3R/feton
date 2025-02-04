@@ -4465,6 +4465,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 03:22:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-02 22:13:10 +0000"
