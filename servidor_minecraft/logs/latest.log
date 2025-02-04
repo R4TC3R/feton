@@ -861,3 +861,25 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 04:24:23.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cécile'/6130, l='ServerLevel[world]', x=-2611.67, y=64.00, z=-354.29] died, message: 'Cécile was slain by COsito'
 [04Feb2025 04:24:23.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Cécile'/6130, l='ServerLevel[world]', x=-2611.67, y=64.00, z=-354.29] died: Cécile was slain by COsito
 [04Feb2025 04:30:04.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Sweet Dreams]
+[04Feb2025 04:33:01.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Friendship Found]
+[04Feb2025 04:34:25.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 320 [Wood Seeds] to R4TC3R]
+[04Feb2025 04:34:35.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 320 [Nature Seeds] to R4TC3R]
+[04Feb2025 04:34:51.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 320 [Dye Seeds] to R4TC3R]
+[04Feb2025 04:35:07.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 320 [Iron Seeds] to R4TC3R]
+[04Feb2025 04:35:11.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 320 [Gold Seeds] to R4TC3R]
+[04Feb2025 04:35:16.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 320 [Diamond Seeds] to R4TC3R]
+[04Feb2025 04:35:25.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 320 [Emerald Seeds] to R4TC3R]
+[04Feb2025 04:37:03.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 320 [Water Seeds] to R4TC3R]
+[04Feb2025 04:38:09.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 320 [Redstone Seeds] to R4TC3R]
+[04Feb2025 04:38:18.138] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Laetitia'/39725, l='ServerLevel[world]', x=-2601.65, y=65.11, z=-352.77] died, message: 'Laetitia (Staying) was slain by Vindicator'
+[04Feb2025 04:38:31.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported Saekro to COsito]
+[04Feb2025 04:38:31.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6143, l='ServerLevel[world]', x=-2606.70, y=64.94, z=-349.51] died, message: 'Farmer was slain by Vindicator'
+[04Feb2025 04:38:35.978] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Huguette'/22724, l='ServerLevel[world]', x=-2631.40, y=67.00, z=-336.87] died, message: 'Huguette was slain by Vindicator'
+[04Feb2025 04:38:47.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported R4TC3R to Saekro]
+[04Feb2025 04:38:48.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Vindicator
+[04Feb2025 04:38:48.981] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[04Feb2025 04:38:50.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has reached the goal [Fortuitous Militia]
+[04Feb2025 04:39:14.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Ambush]
+[04Feb2025 04:39:14.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Who's the Pillager Now?]
+[04Feb2025 04:40:41.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [Ol' Betsy]
+[04Feb2025 04:40:42.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [Take Aim]

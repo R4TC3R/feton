@@ -740,6 +740,7 @@
   "morevillagers:all_professions_traded": {
     "criteria": {
       "woodworker": "2025-02-04 01:12:45 +0000",
+      "librarian": "2025-02-04 04:35:42 +0000",
       "armorer": "2025-02-03 22:01:31 +0000"
     },
     "done": false
@@ -3368,6 +3369,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-02-02 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-04 04:40:42 +0000"
     },
     "done": true
   },
@@ -6774,6 +6781,12 @@
   "additionalguns:recipes/additionalguns/banshee": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-04 04:40:41 +0000"
     },
     "done": true
   },

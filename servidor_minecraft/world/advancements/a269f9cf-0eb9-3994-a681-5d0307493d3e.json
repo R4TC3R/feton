@@ -420,7 +420,8 @@
       "spider_nest": "2025-02-04 00:36:42 +0000",
       "dryland": "2025-02-04 03:56:39 +0000",
       "lush_desert": "2025-02-04 03:57:15 +0000",
-      "redwood_forest": "2025-02-04 04:11:37 +0000"
+      "redwood_forest": "2025-02-04 04:11:37 +0000",
+      "grassland": "2025-02-04 04:34:20 +0000"
     },
     "done": false
   },
@@ -514,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-04 04:35:59 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m1911": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 00:41:40 +0000"
@@ -552,6 +559,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-04 04:39:14 +0000",
       "minecraft:skeleton": "2025-02-04 03:53:14 +0000",
       "minecraft:creeper": "2025-02-04 04:13:41 +0000",
       "minecraft:cave_spider": "2025-02-04 00:37:30 +0000",
@@ -685,6 +693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-04 04:31:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-04 00:26:52 +0000"
@@ -775,6 +789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-04 04:36:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-04 00:33:33 +0000"
@@ -847,6 +867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-04 04:36:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-02-04 00:41:40 +0000"
@@ -886,6 +912,12 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-02-04 00:41:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-04 04:35:59 +0000"
     },
     "done": true
   },
@@ -1136,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-04 04:36:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-02-04 00:26:36 +0000"
@@ -1335,6 +1373,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_wool": "2025-02-04 04:35:59 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/tombstone2": {
     "criteria": {
       "has_coble": "2025-02-04 00:27:55 +0000"
@@ -1398,6 +1442,12 @@
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-02-04 00:26:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 04:39:14 +0000"
     },
     "done": true
   },
@@ -1649,6 +1699,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/cure_item": {
+    "criteria": {
+      "has_apple": "2025-02-04 04:31:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-02-04 01:35:19 +0000",
@@ -1656,8 +1712,10 @@
       "cooked_beef": "2025-02-04 00:34:33 +0000",
       "beef": "2025-02-04 01:34:41 +0000",
       "porkchop": "2025-02-04 01:38:40 +0000",
+      "potato": "2025-02-04 04:37:08 +0000",
       "mutton": "2025-02-04 04:31:23 +0000",
       "bread": "2025-02-04 01:14:17 +0000",
+      "rotten_flesh": "2025-02-04 04:37:43 +0000",
       "cooked_chicken": "2025-02-04 00:37:06 +0000"
     },
     "done": false
@@ -2017,6 +2075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-04 04:31:54 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/mac10": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 00:41:40 +0000"
@@ -2026,6 +2090,12 @@
   "additionalguns:recipes/additionalguns/tactical_silencer": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 00:41:40 +0000"
+    },
+    "done": true
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-02-04 04:33:01 +0000"
     },
     "done": true
   },
@@ -2041,6 +2111,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-02-04 04:39:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-04 01:12:13 +0000"
@@ -2050,6 +2126,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-02-04 00:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-04 04:31:54 +0000"
     },
     "done": true
   },
@@ -2284,6 +2366,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-02-04 00:41:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-04 04:35:59 +0000"
     },
     "done": true
   },
