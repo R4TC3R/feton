@@ -14382,3 +14382,14 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 04:13:01.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [A Strange Grave Dust]
 [04Feb2025 04:16:49.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Feb2025 04:16:49.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 04:21:49.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 04:21:49.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 04:22:47.445] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming com/mrcrayfish/guns/common/container/WorkbenchContainer$1 (target of net/minecraft/world/inventory/Slot)
+[04Feb2025 04:24:23.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cécile'/6130, l='ServerLevel[world]', x=-2611.67, y=64.00, z=-354.29] died, message: 'Cécile was slain by COsito'
+[04Feb2025 04:24:23.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Cécile'/6130, l='ServerLevel[world]', x=-2611.67, y=64.00, z=-354.29] died: Cécile was slain by COsito
+[04Feb2025 04:25:33.736] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraft/world/inventory/GrindstoneMenu$1 (target of net/minecraft/world/Container)
+[04Feb2025 04:26:49.261] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 04:26:49.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 04:30:04.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Sweet Dreams]
+[04Feb2025 04:31:49.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 04:31:49.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
