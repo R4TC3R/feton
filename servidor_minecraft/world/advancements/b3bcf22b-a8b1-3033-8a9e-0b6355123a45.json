@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:22 +0000"
@@ -482,6 +488,12 @@
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2025-02-02 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
@@ -758,6 +770,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-02 22:08:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
@@ -1100,6 +1118,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-02-02 21:50:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
@@ -1494,6 +1518,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-02-03 00:12:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
@@ -2176,6 +2206,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-02-03 05:54:29 +0000"
@@ -2360,6 +2396,12 @@
   "create:recipes/create.palettes/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-02-03 00:19:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
@@ -2552,6 +2594,12 @@
   "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2025-02-02 22:46:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
@@ -2939,6 +2987,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-02-02 22:22:57 +0000"
@@ -3230,6 +3284,12 @@
   "createdeco:recipes/createdeco.bricks/dean_brick": {
     "criteria": {
       "has_item": "2025-02-02 22:00:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
@@ -3628,6 +3688,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-02 23:16:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
@@ -4154,6 +4220,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/scratched_glass_yellow_pane2": {
     "criteria": {
       "recipe_condition2": "2025-02-02 22:00:41 +0000"
@@ -4631,6 +4703,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2025-02-02 21:51:21 +0000"
@@ -4658,6 +4736,12 @@
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2025-02-04 03:22:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
@@ -4983,6 +5067,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-02-02 22:22:57 +0000"
@@ -5076,6 +5166,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-02-03 00:20:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
@@ -5403,6 +5499,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-02 22:08:49 +0000"
@@ -5454,6 +5556,12 @@
   "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-02 22:08:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
@@ -5787,6 +5895,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2025-02-02 21:51:22 +0000"
@@ -5886,6 +6000,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-02-03 06:23:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-02-04 05:40:24 +0000"
     },
     "done": true
   },
