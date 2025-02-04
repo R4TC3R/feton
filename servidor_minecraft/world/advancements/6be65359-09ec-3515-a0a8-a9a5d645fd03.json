@@ -737,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-04 23:22:07 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/angled_grip": {
     "criteria": {
       "has_gray_wool": "2025-02-02 22:01:57 +0000"
@@ -1561,6 +1567,12 @@
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-04 23:24:35 +0000"
     },
     "done": true
   },
@@ -3802,6 +3814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-02-04 23:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-02-04 05:02:10 +0000"
@@ -3946,6 +3964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-02-04 23:22:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2025-02-02 22:10:06 +0000"
@@ -3961,6 +3985,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-02-03 04:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-02-04 23:22:07 +0000"
     },
     "done": true
   },
@@ -4177,6 +4207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-04 23:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-02-02 21:26:02 +0000"
@@ -4259,6 +4295,7 @@
     "criteria": {
       "minecraft:pillager": "2025-02-03 03:54:06 +0000",
       "minecraft:skeleton": "2025-02-02 22:16:42 +0000",
+      "minecraft:elder_guardian": "2025-02-04 23:22:13 +0000",
       "minecraft:vindicator": "2025-02-03 03:53:54 +0000",
       "minecraft:spider": "2025-02-03 00:15:50 +0000",
       "minecraft:creeper": "2025-02-03 07:23:06 +0000",
@@ -4864,6 +4901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-04 23:24:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-02 22:46:11 +0000"
@@ -5019,6 +5062,12 @@
       "minecraft:plains": "2025-02-02 08:50:30 +0000"
     },
     "done": false
+  },
+  "chiselsandbits:recipes/chiselsandbits/unseal": {
+    "criteria": {
+      "has_item_a": "2025-02-04 23:22:17 +0000"
+    },
+    "done": true
   },
   "create:recipes/create.palettes/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
@@ -5412,6 +5461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-04 23:24:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-02-02 23:34:15 +0000"
@@ -5790,6 +5845,12 @@
   "additionalguns:recipes/additionalguns/bullet_long": {
     "criteria": {
       "has_gunpowder": "2025-02-03 04:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-02-04 23:22:07 +0000"
     },
     "done": true
   },
@@ -6498,6 +6559,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/upgrade_base": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-02-04 23:22:07 +0000"
     },
     "done": true
   },
