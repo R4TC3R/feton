@@ -697,6 +697,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "woodworker": "2025-02-04 01:12:45 +0000",
       "armorer": "2025-02-03 22:01:31 +0000"
     },
     "done": false
@@ -2306,6 +2307,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2025-02-04 01:14:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-03 04:02:16 +0000"
@@ -3012,6 +3019,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_3": {
     "criteria": {
       "has_spruce_plank": "2025-02-02 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2025-02-04 01:14:28 +0000"
     },
     "done": true
   },

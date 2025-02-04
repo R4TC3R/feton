@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2025-02-04 01:08:54 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-02-04 00:26:03 +0000"
@@ -203,6 +209,18 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-02-04 01:12:13 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-02-04 01:08:54 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-02-04 00:29:31 +0000"
@@ -212,6 +230,12 @@
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-02-04 00:41:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-04 01:09:09 +0000"
     },
     "done": true
   },
@@ -355,8 +379,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-02-04 01:08:59 +0000",
       "floodplain": "2025-02-04 00:30:39 +0000",
       "lush_savanna": "2025-02-04 00:30:46 +0000",
+      "mediterranean_forest": "2025-02-04 01:08:54 +0000",
       "spider_nest": "2025-02-04 00:36:42 +0000"
     },
     "done": false
@@ -535,6 +561,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-02-04 01:08:54 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/angled_grip": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 00:41:40 +0000"
@@ -661,6 +693,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-04 01:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 00:41:40 +0000"
@@ -676,6 +714,12 @@
   "chiselsandbits:recipes/chiselsandbits/measuring_tape": {
     "criteria": {
       "has_s": "2025-02-04 00:40:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-02-04 01:16:23 +0000"
     },
     "done": true
   },
@@ -754,6 +798,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 00:41:40 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-02-04 01:13:24 +0000"
     },
     "done": true
   },
@@ -957,6 +1007,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:lukewarm_ocean": "2025-02-04 01:14:45 +0000",
       "minecraft:swamp": "2025-02-04 00:21:16 +0000",
       "minecraft:desert": "2025-02-04 00:31:22 +0000",
       "minecraft:jungle": "2025-02-04 00:29:34 +0000"
@@ -985,6 +1036,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-04 00:27:55 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2025-02-04 01:14:12 +0000"
     },
     "done": true
   },
@@ -1475,6 +1532,7 @@
     "criteria": {
       "cooked_mutton": "2025-02-04 00:48:07 +0000",
       "cooked_beef": "2025-02-04 00:34:33 +0000",
+      "bread": "2025-02-04 01:14:17 +0000",
       "cooked_chicken": "2025-02-04 00:37:06 +0000"
     },
     "done": false
@@ -1488,6 +1546,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-04 00:26:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-02-04 01:13:24 +0000"
     },
     "done": true
   },
@@ -1512,6 +1576,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-02-04 00:29:49 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/tools/slicer": {
+    "criteria": {
+      "has_tool": "2025-02-04 01:16:04 +0000"
     },
     "done": true
   },
@@ -1843,6 +1913,12 @@
   "create:recipes/create.palettes/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-04 00:40:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-04 01:12:13 +0000"
     },
     "done": true
   },
@@ -2323,6 +2399,12 @@
   "additionalguns:recipes/additionalguns/banshee": {
     "criteria": {
       "has_iron_ingot": "2025-02-04 00:41:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-04 01:15:10 +0000"
     },
     "done": true
   },

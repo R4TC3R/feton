@@ -836,3 +836,37 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 01:02:40.355] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['José'/40253, l='ServerLevel[world]', x=-2611.30, y=62.00, z=-363.30] died, message: 'José was slain by COsito'
 [04Feb2025 01:04:44.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Diane'/42105, l='ServerLevel[world]', x=-2611.30, y=62.00, z=-363.58] died, message: 'Diane was slain by COsito'
 [04Feb2025 01:06:34.135] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Joseph'/39112, l='ServerLevel[world]', x=-2604.34, y=64.00, z=-358.74] died, message: 'Joseph was slain by COsito'
+[04Feb2025 01:08:38.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 was doomed to fall by Vampire
+[04Feb2025 01:08:38.065] [Server thread/INFO] [tombstone/]: The player delsin20 has successfully been saved
+[04Feb2025 01:08:54.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported delsin20 to COsito]
+[04Feb2025 01:08:54.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [First Village]
+[04Feb2025 01:08:54.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Minecraft Comes Alive]
+[04Feb2025 01:11:44.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R fell out of the world
+[04Feb2025 01:11:44.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Killed R4TC3R]
+[04Feb2025 01:11:44.016] [Server thread/INFO] [tombstone/]: The player R4TC3R has successfully been saved
+[04Feb2025 01:11:45.447] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:70) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:145) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:25) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[04Feb2025 01:12:13.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [What a Deal!]
+[04Feb2025 01:12:13.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [First Trade]
+[04Feb2025 01:14:28.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [MineColonies]
+[04Feb2025 01:15:10.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Ol' Betsy]
+[04Feb2025 01:17:07.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 burned to death
+[04Feb2025 01:17:07.300] [Server thread/INFO] [tombstone/]: The player delsin20 has successfully been saved
