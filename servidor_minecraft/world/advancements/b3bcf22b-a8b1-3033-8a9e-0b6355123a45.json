@@ -767,6 +767,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-02-04 04:07:27 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/chiselsandbits/measuring_tape": {
     "criteria": {
       "has_i": "2025-02-02 21:51:22 +0000"
@@ -1094,6 +1100,12 @@
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-04 04:07:27 +0000"
     },
     "done": true
   },
@@ -2386,6 +2398,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-02-04 04:07:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-02-03 05:50:27 +0000"
@@ -2890,6 +2908,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-02-04 04:07:27 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_wool": "2025-02-03 04:59:14 +0000"
@@ -2983,6 +3007,12 @@
   "create:recipes/create.base/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-02-02 22:22:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-04 04:07:27 +0000"
     },
     "done": true
   },
@@ -3650,6 +3680,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-04 04:07:27 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest": {
     "criteria": {
       "has_oak_plank": "2025-02-02 22:01:09 +0000"
@@ -3896,6 +3932,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-04 04:07:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/username_logger": {
     "criteria": {
       "has_redstone": "2025-02-02 22:22:57 +0000"
@@ -4031,6 +4073,12 @@
   "additionalguns:recipes/additionalguns/bullet_short": {
     "criteria": {
       "has_gunpowder": "2025-02-03 00:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-04 04:07:27 +0000"
     },
     "done": true
   },
@@ -5367,6 +5415,12 @@
   "create:recipes/create.palettes/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-02-03 22:21:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-04 04:07:27 +0000"
     },
     "done": true
   },

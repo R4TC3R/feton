@@ -857,3 +857,4 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 04:07:00.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Pieter'/35494, l='ServerLevel[world]', x=-2581.70, y=68.00, z=-358.30] died, message: 'Pieter was slain by COsito'
 [04Feb2025 04:07:35.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sanne'/35642, l='ServerLevel[world]', x=-2581.47, y=68.00, z=-358.35] died, message: 'Sanne was slain by COsito'
 [04Feb2025 04:08:51.736] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Damien'/26922, l='ServerLevel[world]', x=-2600.82, y=64.00, z=-354.30] died, message: 'Damien was slain by COsito'
+[04Feb2025 04:13:01.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [A Strange Grave Dust]

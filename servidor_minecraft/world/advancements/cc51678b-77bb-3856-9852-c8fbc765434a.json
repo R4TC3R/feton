@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_brick_tiles_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_2": {
     "criteria": {
       "has_oak_plank": "2025-02-02 21:28:03 +0000"
@@ -38,6 +44,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -209,6 +221,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
@@ -314,6 +332,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/red_short_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -455,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-02 21:27:44 +0000"
@@ -470,6 +500,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-02-04 00:18:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/red_short_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -891,6 +927,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-02-03 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-02-04 04:09:43 +0000"
     },
     "done": true
   },
@@ -1424,6 +1466,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/red_brick_tiles_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-03 04:00:58 +0000"
@@ -1496,6 +1544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-02-03 04:07:15 +0000"
@@ -1547,6 +1601,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-02-03 03:59:18 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/red_long_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -1871,6 +1931,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-03 04:12:07 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_long_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -2591,6 +2657,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_short_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-02-02 21:26:05 +0000"
@@ -3041,6 +3113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ak12": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
@@ -3293,6 +3371,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_long_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-02-02 23:21:22 +0000"
@@ -3389,6 +3473,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_from_bricks_blasting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/mining_bench": {
     "criteria": {
       "has_iron_pickaxe": "2025-02-03 00:24:13 +0000"
@@ -3470,6 +3560,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-02-04 01:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -3578,6 +3674,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-02 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/red_long_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -3747,6 +3849,12 @@
   "createdeco:recipes/createdeco.bricks/dean_brick": {
     "criteria": {
       "has_item": "2025-02-03 03:52:44 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/mossy_red_brick_tiles_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -4130,6 +4238,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-02 21:29:15 +0000"
@@ -4288,6 +4402,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/red_brick_tiles_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/vampire_clothing_crown": {
     "criteria": {
       "has_heart": "2025-02-02 23:34:20 +0000"
@@ -4339,6 +4459,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-03 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -4888,6 +5014,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_long_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
@@ -4933,6 +5065,12 @@
   "create:recipes/create.palettes/jungle_window": {
     "criteria": {
       "has_ingredient": "2025-02-02 23:56:43 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_short_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -5002,6 +5140,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-02-02 21:28:03 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/red_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -5427,6 +5571,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/cracked_red_long_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-02-02 21:29:17 +0000"
@@ -5697,6 +5847,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/mossy_red_short_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/decorative/quartz_glass": {
     "criteria": {
       "has_quartz_dust": "2025-02-03 04:22:07 +0000"
@@ -5706,6 +5862,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-02-03 21:52:18 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -5766,6 +5928,12 @@
   "additionalguns:recipes/additionalguns/schwarzlose": {
     "criteria": {
       "has_oak_planks": "2025-02-02 21:28:03 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_brick_tiles_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -6012,6 +6180,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_brick_tiles_slab_vert_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
@@ -6351,6 +6525,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.bricks/cracked_red_short_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/crossbow_arrow_normal": {
     "criteria": {
       "has_iron_ingot": "2025-02-02 23:21:22 +0000"
@@ -6654,6 +6834,12 @@
   "additionalguns:recipes/additionalguns/casing_special": {
     "criteria": {
       "has_iron_nugget": "2025-02-03 05:21:40 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.bricks/cracked_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-02-04 04:16:04 +0000"
     },
     "done": true
   },
