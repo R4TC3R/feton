@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-04 00:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-02-03 07:37:36 +0000"
@@ -572,6 +578,12 @@
   "vampirism:recipes/brewing/vampire/blood_bottle_to_glass": {
     "criteria": {
       "has_blood_bottle": "2025-02-03 00:14:45 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/tactical_stock": {
+    "criteria": {
+      "has_gray_wool": "2025-02-04 00:29:15 +0000"
     },
     "done": true
   },
@@ -1150,6 +1162,12 @@
     "criteria": {
       "has_wit": "2025-02-02 21:50:44 +0000",
       "has_wct": "2025-02-02 21:50:44 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/light_grip": {
+    "criteria": {
+      "has_gray_wool": "2025-02-04 00:29:15 +0000"
     },
     "done": true
   },
@@ -2614,6 +2632,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/weighted_stock": {
+    "criteria": {
+      "has_gray_wool": "2025-02-04 00:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-02-02 23:16:33 +0000"
@@ -2986,6 +3010,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/specialised_grip": {
+    "criteria": {
+      "has_gray_wool": "2025-02-04 00:29:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-02 22:08:49 +0000"
@@ -3217,6 +3247,12 @@
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-02-02 21:51:22 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/light_stock": {
+    "criteria": {
+      "has_gray_wool": "2025-02-04 00:29:15 +0000"
     },
     "done": true
   },
@@ -3762,9 +3798,21 @@
     },
     "done": true
   },
+  "additionalguns:recipes/additionalguns/basic_stock": {
+    "criteria": {
+      "has_gray_wool": "2025-02-04 00:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-02-02 22:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-04 00:29:15 +0000"
     },
     "done": true
   },
@@ -3831,6 +3879,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-02-03 03:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-04 00:29:15 +0000"
     },
     "done": true
   },
@@ -5004,6 +5058,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-02 22:25:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_wool": "2025-02-04 00:29:15 +0000"
     },
     "done": true
   },

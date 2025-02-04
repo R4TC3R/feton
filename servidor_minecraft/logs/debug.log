@@ -13848,3 +13848,45 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 00:22:02.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Feb2025 00:22:02.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Feb2025 00:22:02.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2968ms or 59 ticks behind
+[04Feb2025 00:25:13.269] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/PlayerInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[04Feb2025 00:25:13.270] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/RangedWrapper (target of net/minecraftforge/items/IItemHandler)
+[04Feb2025 00:25:13.270] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/PlayerArmorInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[04Feb2025 00:25:13.271] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/PlayerOffhandInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[04Feb2025 00:25:13.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 was slain by Zombie
+[04Feb2025 00:25:13.318] [Server thread/INFO] [tombstone/]: The player delsin20 has successfully been saved
+[04Feb2025 00:25:16.168] [Server thread/DEBUG] [twilightforest/]: Player delsin20 (a269f9cf-0eb9-3994-a681-5d0307493d3e) respawned and received items held in storage
+[04Feb2025 00:25:27.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-11, y=68, z=40}
+[04Feb2025 00:25:51.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=70, z=40} BlockPos{x=-12, y=68, z=40}
+[04Feb2025 00:26:03.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has reached the goal [Here They Come]
+[04Feb2025 00:26:11.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported Saekro to -1507.500000, 64.000000, -106.500000]
+[04Feb2025 00:26:43.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported Saekro to 540.500000, 70.000000, -405.500000]
+[04Feb2025 00:26:43.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3625ms or 72 ticks behind
+[04Feb2025 00:27:07.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 00:27:07.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 00:27:55.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Stone Age]
+[04Feb2025 00:28:13.222] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 34
+[04Feb2025 00:28:13.222] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@120f346d, b=54, e=80}, net.minecraft.world.CompoundContainer@6d953e5=InventoryMapping{i=net.minecraft.world.CompoundContainer@6d953e5, c=net.minecraft.world.inventory.ChestMenu@120f346d, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@120f346d, b=81, e=89}}
+[04Feb2025 00:28:13.222] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6d953e5, c=net.minecraft.world.inventory.ChestMenu@120f346d, b=0, e=53}
+[04Feb2025 00:28:19.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Getting an Upgrade]
+[04Feb2025 00:28:27.918] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 66
+[04Feb2025 00:28:27.919] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {com.progwml6.ironchest.common.block.regular.entity.DiamondChestBlockEntity@20d4b8d4=InventoryMapping{i=com.progwml6.ironchest.common.block.regular.entity.DiamondChestBlockEntity@20d4b8d4, c=com.progwml6.ironchest.common.inventory.IronChestMenu@66e83047, b=0, e=107}, []=InventoryMapping{i=[], c=com.progwml6.ironchest.common.inventory.IronChestMenu@66e83047, b=108, e=134}, []=InventoryMapping{i=[], c=com.progwml6.ironchest.common.inventory.IronChestMenu@66e83047, b=135, e=143}}
+[04Feb2025 00:28:27.919] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=com.progwml6.ironchest.common.block.regular.entity.DiamondChestBlockEntity@20d4b8d4, c=com.progwml6.ironchest.common.inventory.IronChestMenu@66e83047, b=0, e=107}
+[04Feb2025 00:28:51.719] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 50
+[04Feb2025 00:28:51.719] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@82f40e, b=54, e=80}, net.minecraft.world.CompoundContainer@5b9e08f6=InventoryMapping{i=net.minecraft.world.CompoundContainer@5b9e08f6, c=net.minecraft.world.inventory.ChestMenu@82f40e, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@82f40e, b=81, e=89}}
+[04Feb2025 00:28:51.719] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@5b9e08f6, c=net.minecraft.world.inventory.ChestMenu@82f40e, b=0, e=53}
+[04Feb2025 00:31:07.338] [Worker-Main-5/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[04Feb2025 00:31:43.631] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraft/world/inventory/MerchantContainer (target of net/minecraft/world/Container)
+[04Feb2025 00:31:56.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported R4TC3R to -1507.500000, 64.000000, -106.500000]
+[04Feb2025 00:32:04.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported Saekro to -1507.500000, 64.000000, -106.500000]
+[04Feb2025 00:32:08.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Feb2025 00:32:08.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Feb2025 00:32:10.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2977ms or 59 ticks behind
+[04Feb2025 00:33:47.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2845, y=85, z=223} BlockPos{x=-2843, y=81, z=222}
+[04Feb2025 00:33:47.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2845, y=85, z=223} BlockPos{x=-2843, y=81, z=222}
+[04Feb2025 00:33:47.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2845, y=85, z=223} BlockPos{x=-2843, y=81, z=222}
+[04Feb2025 00:33:59.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2839, y=86, z=225} BlockPos{x=-2841, y=86, z=226}
+[04Feb2025 00:33:59.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2839, y=86, z=225} BlockPos{x=-2841, y=86, z=226}
+[04Feb2025 00:33:59.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2839, y=86, z=225} BlockPos{x=-2841, y=86, z=226}
+[04Feb2025 00:33:59.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2839, y=86, z=225} BlockPos{x=-2841, y=86, z=226}
+[04Feb2025 00:34:56.171] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[04Feb2025 00:34:56.171] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)

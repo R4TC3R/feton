@@ -775,3 +775,23 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 00:21:16.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: delsin20[/127.34.93.247:38393] logged in with entity id 3688 at (5.5, 69.0, 46.5)
 [04Feb2025 00:21:16.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 joined the game
 [04Feb2025 00:22:02.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2968ms or 59 ticks behind
+[04Feb2025 00:25:13.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 was slain by Zombie
+[04Feb2025 00:25:13.318] [Server thread/INFO] [tombstone/]: The player delsin20 has successfully been saved
+[04Feb2025 00:25:27.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-11, y=68, z=40}
+[04Feb2025 00:25:51.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-21, y=70, z=40} BlockPos{x=-12, y=68, z=40}
+[04Feb2025 00:26:03.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has reached the goal [Here They Come]
+[04Feb2025 00:26:11.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported Saekro to -1507.500000, 64.000000, -106.500000]
+[04Feb2025 00:26:43.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported Saekro to 540.500000, 70.000000, -405.500000]
+[04Feb2025 00:26:43.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3625ms or 72 ticks behind
+[04Feb2025 00:27:55.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Stone Age]
+[04Feb2025 00:28:19.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 has made the advancement [Getting an Upgrade]
+[04Feb2025 00:31:56.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported R4TC3R to -1507.500000, 64.000000, -106.500000]
+[04Feb2025 00:32:04.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported Saekro to -1507.500000, 64.000000, -106.500000]
+[04Feb2025 00:32:10.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2977ms or 59 ticks behind
+[04Feb2025 00:33:47.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2845, y=85, z=223} BlockPos{x=-2843, y=81, z=222}
+[04Feb2025 00:33:47.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2845, y=85, z=223} BlockPos{x=-2843, y=81, z=222}
+[04Feb2025 00:33:47.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2845, y=85, z=223} BlockPos{x=-2843, y=81, z=222}
+[04Feb2025 00:33:59.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2839, y=86, z=225} BlockPos{x=-2841, y=86, z=226}
+[04Feb2025 00:33:59.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2839, y=86, z=225} BlockPos{x=-2841, y=86, z=226}
+[04Feb2025 00:33:59.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2839, y=86, z=225} BlockPos{x=-2841, y=86, z=226}
+[04Feb2025 00:33:59.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2839, y=86, z=225} BlockPos{x=-2841, y=86, z=226}
