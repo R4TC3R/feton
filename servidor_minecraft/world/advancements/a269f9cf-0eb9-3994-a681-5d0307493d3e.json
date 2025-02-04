@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-04 01:27:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-02-04 00:27:55 +0000"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-04 01:34:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-02-04 00:29:31 +0000"
@@ -383,6 +395,7 @@
       "bayou": "2025-02-04 01:19:32 +0000",
       "floodplain": "2025-02-04 00:30:39 +0000",
       "lush_savanna": "2025-02-04 00:30:46 +0000",
+      "old_growth_woodland": "2025-02-04 01:33:14 +0000",
       "mediterranean_forest": "2025-02-04 01:08:54 +0000",
       "spider_nest": "2025-02-04 00:36:42 +0000"
     },
@@ -1535,8 +1548,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-02-04 01:35:19 +0000",
       "cooked_mutton": "2025-02-04 00:48:07 +0000",
       "cooked_beef": "2025-02-04 00:34:33 +0000",
+      "beef": "2025-02-04 01:34:41 +0000",
       "bread": "2025-02-04 01:14:17 +0000",
       "cooked_chicken": "2025-02-04 00:37:06 +0000"
     },
@@ -2368,6 +2383,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-02-04 00:28:57 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-02-04 01:27:40 +0000"
     },
     "done": true
   },
