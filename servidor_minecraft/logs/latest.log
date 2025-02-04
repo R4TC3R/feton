@@ -811,3 +811,12 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [04Feb2025 03:26:18.012] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not replace villager zombie attack target task for TranslatableComponent{key='entity.minecraft.zombified_piglin', args=[], siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}}
 [04Feb2025 03:26:48.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
 [04Feb2025 03:29:19.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Saekro> 68 67 -50
+[04Feb2025 03:33:15.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has completed the challenge [Return to Sender]
+[04Feb2025 03:37:16.305] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@15305c01
+[04Feb2025 03:37:16.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COsito[/127.126.121.69:33361] logged in with entity id 6102 at (-2604.9093417248678, 77.0, -375.86084975081195)
+[04Feb2025 03:37:16.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito joined the game
+[04Feb2025 03:39:26.950] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@322c878d
+[04Feb2025 03:39:26.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: delsin20[/127.34.93.247:58615] logged in with entity id 7889 at (-2602.699999988079, 63.9375, -352.6669304016937)
+[04Feb2025 03:39:26.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 joined the game
+[04Feb2025 03:39:45.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: delsin20 lost connection: Disconnected
+[04Feb2025 03:39:45.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: delsin20 left the game

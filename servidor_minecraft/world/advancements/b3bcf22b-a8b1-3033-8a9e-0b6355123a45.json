@@ -3429,6 +3429,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-04 03:33:15 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/blood_infused_iron_ingot": {
     "criteria": {
       "has_iron": "2025-02-02 21:51:21 +0000"
@@ -3588,6 +3594,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-02 22:09:40 +0000",
+      "minecraft:ghast": "2025-02-04 03:33:15 +0000",
       "minecraft:hoglin": "2025-02-03 05:54:55 +0000",
       "minecraft:spider": "2025-02-02 21:55:44 +0000",
       "minecraft:creeper": "2025-02-02 23:03:28 +0000",
