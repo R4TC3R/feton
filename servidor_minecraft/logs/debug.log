@@ -18731,3 +18731,21 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [05Feb2025 00:09:54.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Feb2025 00:14:33.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COsito lost connection: Disconnected
 [05Feb2025 00:14:33.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito left the game
+[05Feb2025 00:14:49.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [A Terrible Fortress]
+[05Feb2025 00:14:54.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 00:14:54.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 00:15:22.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [Into Fire]
+[05Feb2025 00:18:53.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro tried to swim in lava
+[05Feb2025 00:18:53.480] [Server thread/DEBUG] [tombstone/]: A new grave of the player Saekro was created at position [x:17, y:41, z:513, dim:minecraft:the_nether]
+[05Feb2025 00:18:53.482] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
+[05Feb2025 00:18:56.680] [Server thread/DEBUG] [twilightforest/]: Player Saekro (b3bcf22b-a8b1-3033-8a9e-0b6355123a45) respawned and received items held in storage
+[05Feb2025 00:19:05.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=533, y=74, z=-404} too far away from player BlockPos{x=17, y=42, z=513}.
+[05Feb2025 00:19:05.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=533, y=74, z=-404} too far away from player BlockPos{x=17, y=42, z=513}.
+[05Feb2025 00:19:54.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 00:19:54.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 00:24:54.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 00:24:54.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 00:24:58.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro tried to swim in lava to escape Piglin
+[05Feb2025 00:24:58.179] [Server thread/DEBUG] [tombstone/]: A new grave of the player Saekro was created at position [x:95, y:44, z:256, dim:minecraft:the_nether]
+[05Feb2025 00:24:58.180] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
+[05Feb2025 00:25:00.588] [Server thread/DEBUG] [twilightforest/]: Player Saekro (b3bcf22b-a8b1-3033-8a9e-0b6355123a45) respawned and received items held in storage
