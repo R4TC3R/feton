@@ -32,3 +32,7 @@
 [05Feb2025 01:15:04.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Vindicator
 [05Feb2025 01:15:04.028] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
 [05Feb2025 01:16:40.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['MdeMaduxx'/58611, l='ServerLevel[world]', x=-2613.78, y=66.00, z=-383.71] died: MdeMaduxx was slain by Iron Golem
+[05Feb2025 01:17:16.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Iron Golem
+[05Feb2025 01:17:16.398] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[05Feb2025 01:17:53.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R4TC3R lost connection: Timed out
+[05Feb2025 01:17:53.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R left the game

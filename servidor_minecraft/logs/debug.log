@@ -19222,3 +19222,13 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [05Feb2025 01:15:04.028] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
 [05Feb2025 01:15:05.379] [Server thread/DEBUG] [twilightforest/]: Player COsito (cc51678b-77bb-3856-9852-c8fbc765434a) respawned and received items held in storage
 [05Feb2025 01:16:40.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['MdeMaduxx'/58611, l='ServerLevel[world]', x=-2613.78, y=66.00, z=-383.71] died: MdeMaduxx was slain by Iron Golem
+[05Feb2025 01:17:16.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Iron Golem
+[05Feb2025 01:17:16.375] [Server thread/DEBUG] [tombstone/]: A new grave of the player COsito was created at position [x:-2612, y:64, z:-355, dim:minecraft:overworld]
+[05Feb2025 01:17:16.398] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[05Feb2025 01:17:17.560] [Server thread/DEBUG] [twilightforest/]: Player COsito (cc51678b-77bb-3856-9852-c8fbc765434a) respawned and received items held in storage
+[05Feb2025 01:17:53.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R4TC3R lost connection: Timed out
+[05Feb2025 01:17:53.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R left the game
+[05Feb2025 01:19:54.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 01:19:54.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 01:24:54.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 01:24:54.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
