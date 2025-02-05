@@ -653,6 +653,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-02-05 02:01:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-03 04:34:57 +0000"
@@ -2680,6 +2686,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-02-05 02:01:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-02-03 00:03:38 +0000"
@@ -3322,6 +3334,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_2": {
     "criteria": {
       "has_spruce_plank": "2025-02-02 23:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-05 02:01:59 +0000"
     },
     "done": true
   },
@@ -4133,6 +4151,12 @@
   "additionalguns:recipes/additionalguns/holo_scope": {
     "criteria": {
       "has_redstone": "2025-02-03 04:02:27 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-02-05 02:01:59 +0000"
     },
     "done": true
   },
@@ -6257,6 +6281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-05 02:01:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-03 04:02:16 +0000"
@@ -7088,6 +7118,12 @@
   "minecolonies:recipes/minecolonies/blockhuttownhall": {
     "criteria": {
       "has_items": "2025-02-04 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2025-02-05 02:01:59 +0000"
     },
     "done": true
   },

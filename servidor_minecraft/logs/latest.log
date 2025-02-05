@@ -59,3 +59,29 @@
 [05Feb2025 01:55:00.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro moved wrongly!
 [05Feb2025 01:55:10.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
 [05Feb2025 01:57:14.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro moved too quickly! 10.2306775677322,0.0,0.028913301260132585
+[05Feb2025 01:58:56.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro has made the advancement [Hidden in the Depths]
+[05Feb2025 02:01:59.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [Ice Bucket Challenge]
+[05Feb2025 02:03:25.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Iron Golem
+[05Feb2025 02:03:25.835] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[05Feb2025 02:06:00.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro was slain by Grave Guardian
+[05Feb2025 02:06:00.438] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
+[05Feb2025 02:06:01.468] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:70) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at de.teamlapen.vampirism.util.Helper.canBecomeVampire(Helper.java:145) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at de.teamlapen.vampirism.effects.SanguinareEffectInstance.m_19552_(SanguinareEffectInstance.java:25) ~[Vampirism-1.18.2-1.8.8.jar%23121!/:1.8.8]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:721) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:414) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:413) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2215) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:235) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:439) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:207) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:245) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:916) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:326) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:842) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:685) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]

@@ -1761,6 +1761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-05 01:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-02 21:51:21 +0000"
@@ -3924,6 +3930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-05 01:58:56 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/vampire_clothing_crown": {
     "criteria": {
       "has_gold": "2025-02-02 23:31:35 +0000"
@@ -5018,6 +5030,12 @@
   "additionalguns:recipes/additionalguns/vintorez_stock": {
     "criteria": {
       "has_stripped_oak_log": "2025-02-02 23:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-05 01:58:56 +0000"
     },
     "done": true
   },
