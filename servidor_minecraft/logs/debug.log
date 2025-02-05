@@ -18749,3 +18749,12 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [05Feb2025 00:24:58.179] [Server thread/DEBUG] [tombstone/]: A new grave of the player Saekro was created at position [x:95, y:44, z:256, dim:minecraft:the_nether]
 [05Feb2025 00:24:58.180] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
 [05Feb2025 00:25:00.588] [Server thread/DEBUG] [twilightforest/]: Player Saekro (b3bcf22b-a8b1-3033-8a9e-0b6355123a45) respawned and received items held in storage
+[05Feb2025 00:25:09.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=95, y=45, z=256}.
+[05Feb2025 00:25:09.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=95, y=45, z=256}.
+[05Feb2025 00:25:09.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=95, y=45, z=256}.
+[05Feb2025 00:28:29.032] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/jukebox/JukeboxUpgradeContainer$1 (target of net/minecraft/world/inventory/Slot)
+[05Feb2025 00:29:54.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 00:29:54.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 00:32:43.574] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraft/world/inventory/EnchantmentMenu$1 (target of net/minecraft/world/Container)
+[05Feb2025 00:34:54.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 00:34:54.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

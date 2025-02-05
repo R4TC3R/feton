@@ -16,3 +16,6 @@
 [05Feb2025 00:19:05.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=533, y=74, z=-404} too far away from player BlockPos{x=17, y=42, z=513}.
 [05Feb2025 00:24:58.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro tried to swim in lava to escape Piglin
 [05Feb2025 00:24:58.180] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
+[05Feb2025 00:25:09.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=95, y=45, z=256}.
+[05Feb2025 00:25:09.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=95, y=45, z=256}.
+[05Feb2025 00:25:09.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=95, y=45, z=256}.
