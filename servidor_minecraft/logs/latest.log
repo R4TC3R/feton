@@ -49,3 +49,13 @@
 [05Feb2025 01:47:06.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/72873, l='ServerLevel[world]', x=-2608.30, y=64.94, z=-344.50] died, message: 'Farmer was shot by Pillager'
 [05Feb2025 01:47:15.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Vindicator
 [05Feb2025 01:47:15.643] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[05Feb2025 01:48:00.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Corina'/75689, l='ServerLevel[world]', x=-2654.99, y=63.00, z=-382.49] died, message: 'Corina was shot by Pillager'
+[05Feb2025 01:48:00.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Corina'/75689, l='ServerLevel[world]', x=-2654.99, y=63.00, z=-382.49] died: Corina was shot by Pillager
+[05Feb2025 01:48:28.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was shot by Pillager
+[05Feb2025 01:48:28.835] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[05Feb2025 01:52:04.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 1 [Creative Energy Cube] to R4TC3R]
+[05Feb2025 01:55:00.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro fell from a high place
+[05Feb2025 01:55:00.805] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
+[05Feb2025 01:55:00.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro moved wrongly!
+[05Feb2025 01:55:10.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
+[05Feb2025 01:57:14.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Saekro moved too quickly! 10.2306775677322,0.0,0.028913301260132585
