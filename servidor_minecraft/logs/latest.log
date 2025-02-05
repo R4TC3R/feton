@@ -20,3 +20,6 @@
 [05Feb2025 00:25:09.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=95, y=45, z=256}.
 [05Feb2025 00:25:09.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=95, y=45, z=256}.
 [05Feb2025 00:41:49.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1507, y=72, z=-105} BlockPos{x=-1507, y=71, z=-105}
+[05Feb2025 00:48:33.379] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66a7a3e
+[05Feb2025 00:48:33.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COsito[/127.126.121.69:33095] logged in with entity id 41796 at (-2618.8641526913875, 70.0, -366.0390287019068)
+[05Feb2025 00:48:33.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito joined the game
