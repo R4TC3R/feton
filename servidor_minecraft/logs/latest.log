@@ -3,3 +3,8 @@
 [05Feb2025 00:03:55.139] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50885e54
 [05Feb2025 00:03:55.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COsito[/127.126.121.69:57193] logged in with entity id 24627 at (-2598.0201772721184, 65.96192408821369, -349.42688790291265)
 [05Feb2025 00:03:55.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito joined the game
+[05Feb2025 00:08:32.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> pq no entras a la llamada noah
+[05Feb2025 00:09:21.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Damien'/24652, l='ServerLevel[world]', x=-2588.54, y=70.00, z=-376.88] died, message: 'Damien was slain by COsito'
+[05Feb2025 00:09:21.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Damien'/24652, l='ServerLevel[world]', x=-2588.54, y=70.00, z=-376.88] died: Damien was slain by COsito
+[05Feb2025 00:14:33.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COsito lost connection: Disconnected
+[05Feb2025 00:14:33.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito left the game

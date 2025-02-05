@@ -18721,3 +18721,13 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [05Feb2025 00:03:55.151] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@27a235b4 into net.minecraft.network.Connection@41ab270b
 [05Feb2025 00:03:55.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito joined the game
 [05Feb2025 00:03:55.196] [Server thread/DEBUG] [com.hlysine.create_connected.CreateConnected/]: Sync Config: Sending server config to COsito
+[05Feb2025 00:04:55.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 00:04:55.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 00:06:52.898] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraft/world/inventory/StonecutterMenu$1 (target of net/minecraft/world/Container)
+[05Feb2025 00:08:32.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> pq no entras a la llamada noah
+[05Feb2025 00:09:21.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Damien'/24652, l='ServerLevel[world]', x=-2588.54, y=70.00, z=-376.88] died, message: 'Damien was slain by COsito'
+[05Feb2025 00:09:21.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Damien'/24652, l='ServerLevel[world]', x=-2588.54, y=70.00, z=-376.88] died: Damien was slain by COsito
+[05Feb2025 00:09:54.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 00:09:54.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 00:14:33.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COsito lost connection: Disconnected
+[05Feb2025 00:14:33.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito left the game
