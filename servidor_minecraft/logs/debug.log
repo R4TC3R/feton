@@ -19740,3 +19740,17 @@ java.lang.Throwable: null
 	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23123!/:?]
 	at java.lang.Thread.run(Thread.java:840) [?:?]
 [05Feb2025 02:06:01.975] [Server thread/DEBUG] [twilightforest/]: Player Saekro (b3bcf22b-a8b1-3033-8a9e-0b6355123a45) respawned and received items held in storage
+[05Feb2025 02:09:12.152] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Albert'/87959, l='ServerLevel[world]', x=-2601.46, y=65.00, z=-371.76] died, message: 'Albert was slain by COsito'
+[05Feb2025 02:09:12.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Albert'/87959, l='ServerLevel[world]', x=-2601.46, y=65.00, z=-371.76] died: Albert was slain by COsito
+[05Feb2025 02:09:59.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1509, y=48, z=-110} BlockPos{x=-1509, y=47, z=-111}
+[05Feb2025 02:10:01.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 02:10:01.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 02:10:02.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=53, z=-99} BlockPos{x=-1510, y=51, z=-100}
+[05Feb2025 02:12:50.428] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/87782, l='ServerLevel[world]', x=-2604.30, y=63.04, z=-344.32] died, message: 'Villager was slain by Vindicator'
+[05Feb2025 02:13:00.076] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/87815, l='ServerLevel[world]', x=-2611.51, y=64.00, z=-354.51] died, message: 'Librarian was slain by Vindicator'
+[05Feb2025 02:13:11.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/87783, l='ServerLevel[world]', x=-2634.55, y=66.00, z=-376.31] died, message: 'Fisherman was shot by Pillager'
+[05Feb2025 02:13:45.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/87785, l='ServerLevel[world]', x=-2634.47, y=66.00, z=-378.17] died, message: 'Fisherman was shot by Pillager'
+[05Feb2025 02:13:53.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/87784, l='ServerLevel[world]', x=-2634.47, y=66.00, z=-378.15] died, message: 'Fisherman was shot by Pillager'
+[05Feb2025 02:13:57.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has completed the challenge [Village Defender]
+[05Feb2025 02:15:01.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 02:15:01.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -2680,6 +2680,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-02-05 02:13:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/orange_sandstone_wall_from_orange_sandstone_stonecutting": {
     "criteria": {
       "has_orange_sandstone": "2025-02-02 21:50:14 +0000"
