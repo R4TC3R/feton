@@ -23,3 +23,12 @@
 [05Feb2025 00:48:33.379] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@66a7a3e
 [05Feb2025 00:48:33.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COsito[/127.126.121.69:33095] logged in with entity id 41796 at (-2618.8641526913875, 70.0, -366.0390287019068)
 [05Feb2025 00:48:33.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito joined the game
+[05Feb2025 01:09:32.293] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sylvia'/47383, l='ServerLevel[world]', x=-2631.06, y=65.94, z=-357.04] died, message: 'Sylvia was slain by COsito'
+[05Feb2025 01:14:18.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Vindicator
+[05Feb2025 01:14:18.539] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[05Feb2025 01:14:21.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported R4TC3R to COsito]
+[05Feb2025 01:14:28.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from COsito: Location (-2590.479223549366, 69.75, -375.23812997341156) too far away from hit block BlockPos{x=-2591, y=68, z=-376}.
+[05Feb2025 01:14:56.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Successfully filled 2 blocks]
+[05Feb2025 01:15:04.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Vindicator
+[05Feb2025 01:15:04.028] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[05Feb2025 01:16:40.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['MdeMaduxx'/58611, l='ServerLevel[world]', x=-2613.78, y=66.00, z=-383.71] died: MdeMaduxx was slain by Iron Golem
