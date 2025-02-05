@@ -19,3 +19,4 @@
 [05Feb2025 00:25:09.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=95, y=45, z=256}.
 [05Feb2025 00:25:09.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=95, y=45, z=256}.
 [05Feb2025 00:25:09.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=538, y=70, z=-407} too far away from player BlockPos{x=95, y=45, z=256}.
+[05Feb2025 00:41:49.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1507, y=72, z=-105} BlockPos{x=-1507, y=71, z=-105}
