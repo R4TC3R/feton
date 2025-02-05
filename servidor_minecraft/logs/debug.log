@@ -19678,3 +19678,13 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 [05Feb2025 01:35:02.235] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@5fa3bb91, c=net.minecraft.world.inventory.ChestMenu@43c2ca43, b=0, e=53}
 [05Feb2025 01:35:52.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gróa'/67240, l='ServerLevel[world]', x=-2593.43, y=66.00, z=-345.49] died, message: 'Gróa was slain by COsito'
 [05Feb2025 01:35:52.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gróa'/67240, l='ServerLevel[world]', x=-2593.43, y=66.00, z=-345.49] died: Gróa was slain by COsito
+[05Feb2025 01:39:59.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 01:39:59.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 01:41:02.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [Hot Stuff]
+[05Feb2025 01:44:59.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 01:44:59.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 01:47:06.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/72873, l='ServerLevel[world]', x=-2608.30, y=64.94, z=-344.50] died, message: 'Farmer was shot by Pillager'
+[05Feb2025 01:47:15.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Vindicator
+[05Feb2025 01:47:15.633] [Server thread/DEBUG] [tombstone/]: A new grave of the player COsito was created at position [x:-2605, y:64, z:-354, dim:minecraft:overworld]
+[05Feb2025 01:47:15.643] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
+[05Feb2025 01:47:16.875] [Server thread/DEBUG] [twilightforest/]: Player COsito (cc51678b-77bb-3856-9852-c8fbc765434a) respawned and received items held in storage

@@ -45,3 +45,7 @@
 [05Feb2025 01:33:47.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
 [05Feb2025 01:35:52.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gróa'/67240, l='ServerLevel[world]', x=-2593.43, y=66.00, z=-345.49] died, message: 'Gróa was slain by COsito'
 [05Feb2025 01:35:52.584] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gróa'/67240, l='ServerLevel[world]', x=-2593.43, y=66.00, z=-345.49] died: Gróa was slain by COsito
+[05Feb2025 01:41:02.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has made the advancement [Hot Stuff]
+[05Feb2025 01:47:06.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/72873, l='ServerLevel[world]', x=-2608.30, y=64.94, z=-344.50] died, message: 'Farmer was shot by Pillager'
+[05Feb2025 01:47:15.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito was slain by Vindicator
+[05Feb2025 01:47:15.643] [Server thread/INFO] [tombstone/]: The player COsito has successfully been saved
