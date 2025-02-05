@@ -19754,3 +19754,30 @@ java.lang.Throwable: null
 [05Feb2025 02:13:57.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: COsito has completed the challenge [Village Defender]
 [05Feb2025 02:15:01.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Feb2025 02:15:01.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 02:20:01.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 02:20:01.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 02:20:16.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: R4TC3R has reached the goal [Magic Siphoner]
+[05Feb2025 02:20:29.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1529, y=95, z=-114} BlockPos{x=-1529, y=96, z=-114}
+[05Feb2025 02:20:30.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1529, y=87, z=-114} BlockPos{x=-1529, y=88, z=-114}
+[05Feb2025 02:20:34.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1529, y=70, z=-114} BlockPos{x=-1529, y=69, z=-114}
+[05Feb2025 02:21:17.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> noah que mod de mierda el que me manda cazarecompensas
+[05Feb2025 02:21:31.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> me mato a todos los aldeanos
+[05Feb2025 02:21:51.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <COsito> mi granja de aldeanoss
+[05Feb2025 02:22:34.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Teleported R4TC3R to COsito]
+[05Feb2025 02:22:51.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 1 [Villager Spawn Egg] to R4TC3R]
+[05Feb2025 02:22:51.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 1 [Villager Spawn Egg] to R4TC3R]
+[05Feb2025 02:22:58.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 1 [Villager Spawn Egg] to R4TC3R]
+[05Feb2025 02:22:58.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 1 [Villager Spawn Egg] to R4TC3R]
+[05Feb2025 02:23:20.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 1 [Creative Energy Cube] to R4TC3R]
+[05Feb2025 02:23:37.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2630, y=66, z=-325} BlockPos{x=-2630, y=66, z=-326}
+[05Feb2025 02:23:43.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [R4TC3R: Gave 1 [Building Gadget] to R4TC3R]
+[05Feb2025 02:25:01.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 02:25:01.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 02:25:07.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Saekro drowned
+[05Feb2025 02:25:07.339] [Server thread/DEBUG] [tombstone/]: A new grave of the player Saekro was created at position [x:-1530, y:161, z:-115, dim:minecraft:overworld]
+[05Feb2025 02:25:07.341] [Server thread/INFO] [tombstone/]: The player Saekro has successfully been saved
+[05Feb2025 02:25:10.262] [Server thread/DEBUG] [twilightforest/]: Player Saekro (b3bcf22b-a8b1-3033-8a9e-0b6355123a45) respawned and received items held in storage
+[05Feb2025 02:25:17.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=539, y=70, z=-407} too far away from player BlockPos{x=-1530, y=162, z=-115}.
+[05Feb2025 02:25:17.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=539, y=70, z=-407} too far away from player BlockPos{x=-1530, y=162, z=-115}.
+[05Feb2025 02:25:17.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=539, y=70, z=-407} too far away from player BlockPos{x=-1530, y=162, z=-115}.
+[05Feb2025 02:25:17.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from Saekro: hit position BlockPos{x=539, y=70, z=-407} too far away from player BlockPos{x=-1530, y=162, z=-115}.
